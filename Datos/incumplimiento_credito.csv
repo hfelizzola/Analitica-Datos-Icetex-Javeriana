@@ -1,0 +1,1001 @@
+saldo_cuenta(millones),duracion_prestamo_meses,historial_crediticio,proposito,monto(millones),saldo_ahorros(millones),antiguedad_empleo,tasa_cuotas,estado_personal,otros_deudores,historial_residencia,propiedad,edad,plan_cuotas,vivienda,creditos_existentes,trabajo,dependientes,telefono,trabajador_extranjero,incumplimiento
+< 1M,6,crítico,radio/televisión,1169,desconocido,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,67,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,48,pagado,radio/televisión,5951,< 1M,1 - 4 años,2,mujer,ninguno,2,bienes raíces,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,12,crítico,educación,2096,< 1M,4 - 7 años,2,hombre soltero,ninguno,3,bienes raíces,49,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+< 1M,42,pagado,muebles,7882,< 1M,4 - 7 años,2,hombre soltero,aval,4,sociedad de ahorros y préstamos,45,ninguno,gratuita,1,empleado calificado,2,ninguno,sí,0
+< 1M,24,retrasado,coche (nuevo),4870,< 1M,1 - 4 años,3,hombre soltero,ninguno,4,desconocido/nada,53,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+desconocido,36,pagado,educación,9055,desconocido,1 - 4 años,2,hombre soltero,ninguno,4,desconocido/nada,35,ninguno,gratuita,1,residente no calificado,2,sí,sí,0
+desconocido,24,pagado,muebles,2835,10M - 100M,> 7 años,3,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,53,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,coche (usado),6948,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,35,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,radio/televisión,3059,> 100M,4 - 7 años,2,hombre divorciado,ninguno,4,bienes raíces,61,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,30,crítico,coche (nuevo),5234,< 1M,desempleado,4,hombre casado,ninguno,2,otro,28,ninguno,propia,2,autónomo gerente,1,ninguno,sí,1
+1M - 10M,12,pagado,coche (nuevo),1295,< 1M,0 - 1 año,3,mujer,ninguno,1,otro,25,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,48,pagado,negocios,4308,< 1M,0 - 1 año,3,mujer,ninguno,4,sociedad de ahorros y préstamos,24,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,pagado,radio/televisión,1567,< 1M,1 - 4 años,1,mujer,ninguno,1,otro,22,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,crítico,coche (nuevo),1199,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,60,ninguno,propia,2,residente no calificado,1,ninguno,sí,1
+< 1M,15,pagado,coche (nuevo),1403,< 1M,1 - 4 años,2,mujer,ninguno,4,otro,28,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,radio/televisión,1282,1M - 10M,1 - 4 años,4,mujer,ninguno,2,otro,32,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,24,crítico,radio/televisión,2424,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,53,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,30,totalmente pagado,negocios,8072,desconocido,0 - 1 año,2,hombre soltero,ninguno,3,otro,25,banco,propia,3,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,coche (usado),12579,< 1M,> 7 años,4,mujer,ninguno,2,desconocido/nada,44,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,24,pagado,radio/televisión,3430,10M - 100M,> 7 años,3,hombre soltero,ninguno,2,otro,31,ninguno,propia,1,empleado calificado,2,sí,sí,0
+desconocido,9,crítico,coche (nuevo),2134,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,otro,48,ninguno,propia,3,empleado calificado,1,sí,sí,0
+< 1M,6,pagado,radio/televisión,2647,10M - 100M,1 - 4 años,2,hombre soltero,ninguno,3,bienes raíces,44,ninguno,alquilada,1,empleado calificado,2,ninguno,sí,0
+< 1M,10,crítico,coche (nuevo),2241,< 1M,0 - 1 año,1,hombre soltero,ninguno,3,bienes raíces,48,ninguno,alquilada,2,residente no calificado,2,ninguno,no,0
+1M - 10M,12,crítico,coche (usado),1804,1M - 10M,0 - 1 año,3,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,44,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,10,crítico,muebles,2069,desconocido,1 - 4 años,2,hombre casado,ninguno,1,otro,26,ninguno,propia,2,empleado calificado,1,ninguno,no,0
+< 1M,6,pagado,muebles,1374,< 1M,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,36,banco,propia,1,residente no calificado,1,sí,sí,0
+desconocido,6,totalmente pagado,radio/televisión,426,< 1M,> 7 años,4,hombre casado,ninguno,4,otro,39,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+> 10M,12,totalmente pagado en este banco,radio/televisión,409,> 100M,1 - 4 años,3,mujer,ninguno,3,bienes raíces,42,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,7,pagado,radio/televisión,2415,< 1M,1 - 4 años,3,hombre soltero,aval,2,bienes raíces,34,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,60,retrasado,negocios,6836,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,63,ninguno,propia,2,empleado calificado,1,sí,sí,1
+1M - 10M,18,pagado,negocios,1913,> 100M,0 - 1 año,3,hombre casado,ninguno,3,bienes raíces,36,banco,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,pagado,muebles,4020,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,27,tiendas,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,coche (nuevo),5866,1M - 10M,1 - 4 años,2,hombre soltero,ninguno,2,otro,30,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,negocios,1264,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,57,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+> 10M,12,pagado,muebles,1474,< 1M,0 - 1 año,4,mujer,ninguno,1,sociedad de ahorros y préstamos,33,banco,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,45,crítico,radio/televisión,4746,< 1M,0 - 1 año,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,25,ninguno,propia,2,residente no calificado,1,ninguno,sí,1
+desconocido,48,crítico,educación,6110,< 1M,1 - 4 años,1,hombre soltero,ninguno,3,desconocido/nada,31,banco,gratuita,1,empleado calificado,1,sí,sí,0
+> 10M,18,pagado,radio/televisión,2100,< 1M,1 - 4 años,4,hombre soltero,co-solicitante,2,bienes raíces,37,tiendas,propia,1,empleado calificado,1,ninguno,sí,1
+> 10M,10,pagado,electrodomésticos domésticos,1225,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,37,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,9,pagado,radio/televisión,458,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,bienes raíces,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,30,pagado,radio/televisión,2333,10M - 100M,> 7 años,4,hombre soltero,ninguno,2,otro,30,banco,propia,1,autónomo gerente,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,1158,10M - 100M,1 - 4 años,3,hombre divorciado,ninguno,1,otro,26,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,retrasado,reparaciones,6204,< 1M,1 - 4 años,2,hombre soltero,ninguno,4,bienes raíces,44,ninguno,propia,1,residente no calificado,2,sí,sí,0
+< 1M,30,crítico,coche (usado),6187,1M - 10M,4 - 7 años,1,hombre casado,ninguno,4,otro,24,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+< 1M,48,crítico,coche (usado),6143,< 1M,> 7 años,4,mujer,ninguno,4,desconocido/nada,58,tiendas,gratuita,2,residente no calificado,1,ninguno,sí,1
+desconocido,11,crítico,coche (nuevo),1393,< 1M,0 - 1 año,4,mujer,ninguno,4,otro,35,ninguno,propia,2,autónomo gerente,1,ninguno,sí,0
+desconocido,36,pagado,radio/televisión,2299,10M - 100M,> 7 años,4,hombre soltero,ninguno,4,otro,39,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,pagado,coche (usado),1352,10M - 100M,desempleado,1,mujer,ninguno,2,sociedad de ahorros y préstamos,23,ninguno,alquilada,1,desempleado no residente,1,sí,sí,0
+desconocido,11,crítico,coche (nuevo),7228,< 1M,1 - 4 años,1,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,39,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,12,pagado,radio/televisión,2073,1M - 10M,1 - 4 años,4,mujer,co-solicitante,2,bienes raíces,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,retrasado,muebles,2333,desconocido,0 - 1 año,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,29,banco,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,27,retrasado,coche (usado),5965,< 1M,> 7 años,1,hombre soltero,ninguno,2,otro,30,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,radio/televisión,1262,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,otro,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,coche (usado),3378,desconocido,1 - 4 años,2,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,31,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,36,retrasado,coche (nuevo),2225,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,57,banco,gratuita,2,empleado calificado,1,sí,sí,1
+desconocido,6,totalmente pagado en este banco,coche (nuevo),783,desconocido,1 - 4 años,1,hombre soltero,aval,2,bienes raíces,26,tiendas,propia,1,residente no calificado,2,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,6468,desconocido,desempleado,2,hombre soltero,ninguno,1,desconocido/nada,52,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,36,crítico,radio/televisión,9566,< 1M,1 - 4 años,2,mujer,ninguno,2,otro,31,tiendas,propia,2,empleado calificado,1,ninguno,sí,0
+> 10M,18,pagado,coche (nuevo),1961,< 1M,> 7 años,3,mujer,ninguno,2,otro,23,ninguno,propia,1,autónomo gerente,1,ninguno,sí,0
+< 1M,36,crítico,muebles,6229,< 1M,0 - 1 año,4,mujer,co-solicitante,4,desconocido/nada,23,ninguno,alquilada,2,residente no calificado,1,sí,sí,1
+1M - 10M,9,pagado,negocios,1391,< 1M,1 - 4 años,2,hombre casado,ninguno,1,bienes raíces,27,banco,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,15,crítico,radio/televisión,1537,desconocido,> 7 años,4,hombre soltero,aval,4,bienes raíces,50,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,36,totalmente pagado,negocios,1953,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,61,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+1M - 10M,48,totalmente pagado,negocios,14421,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,25,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,24,pagado,radio/televisión,3181,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,27,pagado,reparaciones,5190,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,48,ninguno,propia,4,empleado calificado,2,sí,sí,0
+desconocido,12,pagado,radio/televisión,2171,< 1M,0 - 1 año,2,mujer,ninguno,2,otro,29,banco,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (nuevo),1007,> 100M,1 - 4 años,4,hombre casado,ninguno,1,bienes raíces,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,pagado,educación,1819,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,37,tiendas,gratuita,1,empleado calificado,1,sí,sí,1
+desconocido,36,pagado,radio/televisión,2394,desconocido,1 - 4 años,4,mujer,ninguno,4,otro,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,pagado,coche (usado),8133,< 1M,1 - 4 años,1,mujer,ninguno,2,sociedad de ahorros y préstamos,30,banco,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,7,crítico,radio/televisión,730,desconocido,> 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,46,ninguno,alquilada,2,residente no calificado,1,sí,sí,0
+< 1M,8,crítico,otros,1164,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,51,banco,gratuita,2,autónomo gerente,2,sí,sí,0
+1M - 10M,42,crítico,negocios,5954,< 1M,4 - 7 años,2,mujer,ninguno,1,bienes raíces,41,banco,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,36,pagado,educación,1977,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,40,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+< 1M,12,crítico,coche (usado),1526,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,66,ninguno,gratuita,2,autónomo gerente,1,ninguno,sí,0
+< 1M,42,pagado,radio/televisión,3965,< 1M,0 - 1 año,4,hombre soltero,ninguno,3,otro,34,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,11,retrasado,radio/televisión,4771,< 1M,4 - 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,51,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,54,totalmente pagado,coche (usado),9436,desconocido,1 - 4 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,39,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+1M - 10M,30,pagado,muebles,3832,< 1M,0 - 1 año,2,hombre casado,ninguno,1,sociedad de ahorros y préstamos,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,radio/televisión,5943,desconocido,0 - 1 año,1,mujer,ninguno,1,otro,44,ninguno,propia,2,empleado calificado,1,sí,sí,1
+desconocido,15,pagado,radio/televisión,1213,10M - 100M,> 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,47,tiendas,propia,1,empleado calificado,1,sí,sí,0
+desconocido,18,pagado,negocios,1568,1M - 10M,1 - 4 años,3,mujer,ninguno,4,sociedad de ahorros y préstamos,24,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+< 1M,24,pagado,otros,1755,< 1M,> 7 años,4,mujer,aval,4,bienes raíces,58,ninguno,propia,1,residente no calificado,1,sí,sí,0
+< 1M,10,pagado,radio/televisión,2315,< 1M,> 7 años,3,hombre soltero,ninguno,4,bienes raíces,52,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,12,crítico,negocios,1412,< 1M,1 - 4 años,4,mujer,aval,2,bienes raíces,29,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,18,crítico,muebles,1295,< 1M,0 - 1 año,4,mujer,ninguno,1,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,educación,12612,1M - 10M,1 - 4 años,1,hombre soltero,ninguno,4,desconocido/nada,47,ninguno,gratuita,1,empleado calificado,2,sí,sí,1
+< 1M,18,pagado,coche (nuevo),2249,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,3,otro,30,ninguno,propia,1,autónomo gerente,2,sí,sí,0
+< 1M,12,totalmente pagado,reparaciones,1108,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,bienes raíces,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,12,crítico,radio/televisión,618,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,56,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,crítico,coche (usado),1409,< 1M,> 7 años,4,hombre soltero,ninguno,3,bienes raíces,54,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,radio/televisión,797,desconocido,> 7 años,4,mujer,ninguno,3,sociedad de ahorros y préstamos,33,banco,propia,1,residente no calificado,2,ninguno,sí,1
+> 10M,24,crítico,muebles,3617,desconocido,> 7 años,4,hombre soltero,co-solicitante,4,desconocido/nada,20,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (nuevo),1318,> 100M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,54,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,54,totalmente pagado,negocios,15945,< 1M,0 - 1 año,3,hombre soltero,ninguno,4,desconocido/nada,58,ninguno,alquilada,1,empleado calificado,1,sí,sí,1
+desconocido,12,crítico,educación,2012,desconocido,4 - 7 años,4,mujer,ninguno,2,otro,61,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,negocios,2622,1M - 10M,1 - 4 años,4,hombre soltero,ninguno,4,otro,34,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,crítico,radio/televisión,2337,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,20,retrasado,coche (usado),7057,desconocido,4 - 7 años,3,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,36,banco,alquilada,2,autónomo gerente,2,sí,sí,0
+desconocido,24,pagado,coche (nuevo),1469,1M - 10M,> 7 años,4,hombre casado,ninguno,4,bienes raíces,41,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,radio/televisión,2323,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,otro,24,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,retrasado,radio/televisión,932,< 1M,1 - 4 años,3,mujer,ninguno,2,bienes raíces,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,crítico,muebles,1919,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,otro,35,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,coche (usado),2445,desconocido,0 - 1 año,2,hombre casado,ninguno,4,otro,26,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,24,crítico,otros,11938,< 1M,1 - 4 años,2,hombre soltero,co-solicitante,3,otro,39,ninguno,propia,2,autónomo gerente,2,sí,sí,1
+desconocido,18,totalmente pagado en este banco,coche (nuevo),6458,< 1M,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,39,banco,propia,2,autónomo gerente,2,sí,sí,1
+1M - 10M,12,pagado,coche (nuevo),6078,< 1M,4 - 7 años,2,hombre soltero,ninguno,2,otro,32,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,muebles,7721,desconocido,0 - 1 año,1,mujer,ninguno,2,sociedad de ahorros y préstamos,30,ninguno,propia,1,empleado calificado,1,sí,no,0
+1M - 10M,14,pagado,negocios,1410,10M - 100M,> 7 años,1,hombre casado,ninguno,2,bienes raíces,35,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,6,retrasado,negocios,1449,1M - 10M,> 7 años,1,hombre divorciado,ninguno,2,otro,31,banco,propia,2,empleado calificado,2,ninguno,sí,0
+> 10M,15,pagado,educación,392,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,23,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,pagado,coche (nuevo),6260,< 1M,4 - 7 años,3,hombre soltero,ninguno,3,bienes raíces,28,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+desconocido,36,crítico,coche (nuevo),7855,< 1M,1 - 4 años,4,mujer,ninguno,2,bienes raíces,25,tiendas,propia,2,empleado calificado,1,sí,sí,1
+< 1M,12,pagado,radio/televisión,1680,10M - 100M,> 7 años,3,hombre casado,ninguno,1,bienes raíces,35,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,48,crítico,radio/televisión,3578,desconocido,> 7 años,4,hombre soltero,ninguno,1,bienes raíces,47,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,42,pagado,radio/televisión,7174,desconocido,4 - 7 años,4,mujer,ninguno,3,otro,30,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+< 1M,10,crítico,muebles,2132,desconocido,0 - 1 año,2,mujer,co-solicitante,3,bienes raíces,27,ninguno,alquilada,2,empleado calificado,1,ninguno,no,0
+< 1M,33,crítico,muebles,4281,10M - 100M,1 - 4 años,1,mujer,ninguno,4,otro,23,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,crítico,coche (nuevo),2366,10M - 100M,4 - 7 años,3,hombre divorciado,ninguno,3,otro,36,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,21,pagado,radio/televisión,1835,< 1M,1 - 4 años,3,mujer,ninguno,2,bienes raíces,25,ninguno,propia,2,empleado calificado,1,sí,sí,1
+desconocido,24,crítico,coche (usado),3868,< 1M,> 7 años,4,mujer,ninguno,2,otro,41,ninguno,alquilada,2,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,muebles,1768,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,24,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+> 10M,10,crítico,coche (nuevo),781,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,63,ninguno,gratuita,2,empleado calificado,1,sí,sí,0
+1M - 10M,18,pagado,muebles,1924,desconocido,0 - 1 año,4,mujer,ninguno,3,bienes raíces,27,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,12,crítico,coche (nuevo),2121,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,radio/televisión,701,< 1M,1 - 4 años,4,hombre casado,ninguno,2,bienes raíces,40,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,reparaciones,639,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,30,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,crítico,coche (usado),1860,< 1M,desempleado,4,hombre soltero,ninguno,2,otro,34,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+< 1M,12,crítico,coche (nuevo),3499,< 1M,1 - 4 años,3,mujer,co-solicitante,2,bienes raíces,29,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,48,pagado,coche (nuevo),8487,desconocido,4 - 7 años,1,mujer,ninguno,2,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,36,retrasado,educación,6887,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,29,tiendas,propia,1,empleado calificado,1,sí,sí,1
+desconocido,15,pagado,muebles,2708,< 1M,0 - 1 año,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,27,banco,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,18,pagado,muebles,1984,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,47,banco,gratuita,2,empleado calificado,1,ninguno,sí,0
+desconocido,60,pagado,radio/televisión,10144,1M - 10M,4 - 7 años,2,mujer,ninguno,4,bienes raíces,21,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,radio/televisión,1240,desconocido,> 7 años,4,mujer,ninguno,2,bienes raíces,38,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,27,retrasado,coche (usado),8613,> 100M,1 - 4 años,2,hombre soltero,ninguno,2,otro,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,766,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,3,bienes raíces,66,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,15,crítico,radio/televisión,2728,desconocido,4 - 7 años,4,hombre soltero,aval,2,bienes raíces,35,banco,propia,3,empleado calificado,1,sí,sí,0
+> 10M,12,pagado,radio/televisión,1881,< 1M,1 - 4 años,2,mujer,ninguno,2,otro,44,ninguno,alquilada,1,residente no calificado,1,sí,sí,0
+> 10M,6,pagado,coche (nuevo),709,> 100M,0 - 1 año,2,hombre casado,ninguno,2,bienes raíces,27,ninguno,propia,1,desempleado no residente,1,ninguno,no,0
+1M - 10M,36,pagado,radio/televisión,4795,< 1M,0 - 1 año,4,mujer,ninguno,1,desconocido/nada,30,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,27,pagado,radio/televisión,3416,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,otro,27,ninguno,propia,1,autónomo gerente,1,ninguno,sí,0
+< 1M,18,pagado,muebles,2462,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,21,crítico,muebles,2288,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,23,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,48,totalmente pagado en este banco,negocios,3566,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,2,otro,30,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,crítico,coche (nuevo),860,< 1M,> 7 años,1,mujer,ninguno,4,desconocido/nada,39,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,coche (nuevo),682,1M - 10M,4 - 7 años,4,mujer,ninguno,3,otro,51,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,36,crítico,muebles,5371,< 1M,1 - 4 años,3,hombre soltero,aval,2,sociedad de ahorros y préstamos,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,1582,> 100M,> 7 años,4,hombre soltero,ninguno,4,otro,46,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,6,pagado,radio/televisión,1346,1M - 10M,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,42,banco,gratuita,1,empleado calificado,2,sí,sí,0
+desconocido,10,pagado,radio/televisión,1924,< 1M,1 - 4 años,1,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,38,ninguno,propia,1,empleado calificado,1,sí,no,0
+> 10M,36,pagado,radio/televisión,5848,< 1M,1 - 4 años,4,hombre soltero,ninguno,1,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,crítico,coche (usado),7758,> 100M,> 7 años,2,mujer,ninguno,4,desconocido/nada,29,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,retrasado,negocios,6967,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,4,otro,36,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+< 1M,12,pagado,muebles,1282,< 1M,1 - 4 años,2,mujer,ninguno,4,otro,20,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,9,crítico,reparaciones,1288,1M - 10M,> 7 años,3,hombre soltero,aval,4,bienes raíces,48,ninguno,propia,2,empleado calificado,2,ninguno,no,0
+< 1M,12,totalmente pagado en este banco,reentrenamiento,339,< 1M,> 7 años,4,hombre casado,ninguno,1,otro,45,banco,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,coche (nuevo),3512,1M - 10M,4 - 7 años,2,hombre soltero,ninguno,3,otro,38,banco,propia,2,empleado calificado,1,sí,sí,0
+desconocido,6,crítico,radio/televisión,1898,desconocido,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,34,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+desconocido,24,crítico,radio/televisión,2872,1M - 10M,> 7 años,3,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,1,empleado calificado,2,sí,sí,0
+desconocido,18,crítico,coche (nuevo),1055,< 1M,0 - 1 año,4,mujer,ninguno,1,sociedad de ahorros y préstamos,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,15,pagado,electrodomésticos domésticos,1262,10M - 100M,4 - 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,36,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,10,pagado,coche (nuevo),7308,< 1M,desempleado,2,hombre soltero,ninguno,4,desconocido/nada,70,banco,gratuita,1,autónomo gerente,1,sí,sí,0
+desconocido,36,pagado,coche (nuevo),909,10M - 100M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,36,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,pagado,muebles,2978,10M - 100M,1 - 4 años,1,hombre soltero,ninguno,2,otro,32,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,18,pagado,muebles,1131,< 1M,desempleado,4,mujer,ninguno,2,otro,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,11,pagado,muebles,1577,> 100M,0 - 1 año,4,mujer,ninguno,1,bienes raíces,20,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,muebles,3972,< 1M,4 - 7 años,2,mujer,ninguno,4,sociedad de ahorros y préstamos,25,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,24,crítico,negocios,1935,< 1M,> 7 años,4,hombre divorciado,ninguno,4,bienes raíces,31,ninguno,propia,2,empleado calificado,1,sí,sí,1
+< 1M,15,totalmente pagado,coche (nuevo),950,< 1M,> 7 años,4,hombre soltero,ninguno,3,otro,33,ninguno,alquilada,2,empleado calificado,2,ninguno,sí,1
+desconocido,12,pagado,muebles,763,< 1M,1 - 4 años,4,mujer,ninguno,1,bienes raíces,26,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,24,retrasado,muebles,2064,< 1M,desempleado,3,mujer,ninguno,2,sociedad de ahorros y préstamos,34,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+1M - 10M,8,pagado,radio/televisión,1414,< 1M,1 - 4 años,4,hombre soltero,aval,2,bienes raíces,33,ninguno,propia,1,empleado calificado,1,ninguno,no,0
+< 1M,21,retrasado,educación,3414,< 1M,0 - 1 año,2,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,26,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,30,totalmente pagado en este banco,coche (usado),7485,desconocido,desempleado,4,mujer,ninguno,1,bienes raíces,53,banco,propia,1,autónomo gerente,1,sí,sí,1
+< 1M,12,pagado,muebles,2577,< 1M,1 - 4 años,2,hombre divorciado,ninguno,1,otro,42,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,crítico,radio/televisión,338,10M - 100M,> 7 años,4,hombre soltero,ninguno,4,otro,52,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,pagado,radio/televisión,1963,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,otro,31,ninguno,alquilada,2,autónomo gerente,2,sí,sí,0
+< 1M,21,crítico,coche (nuevo),571,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,65,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,36,retrasado,negocios,9572,< 1M,0 - 1 año,1,hombre divorciado,ninguno,1,otro,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,36,retrasado,negocios,4455,< 1M,1 - 4 años,2,hombre divorciado,ninguno,2,bienes raíces,30,tiendas,propia,2,autónomo gerente,1,sí,sí,1
+< 1M,21,totalmente pagado en este banco,coche (nuevo),1647,desconocido,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,40,ninguno,propia,2,residente no calificado,2,ninguno,sí,1
+desconocido,24,crítico,muebles,3777,> 100M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,50,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,crítico,coche (nuevo),884,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,36,banco,propia,1,empleado calificado,2,sí,sí,1
+desconocido,15,crítico,radio/televisión,1360,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,31,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,totalmente pagado en este banco,coche (usado),5129,< 1M,> 7 años,2,mujer,ninguno,4,desconocido/nada,74,banco,gratuita,1,autónomo gerente,2,sí,sí,1
+1M - 10M,16,crítico,coche (nuevo),1175,< 1M,desempleado,2,hombre soltero,ninguno,3,otro,68,ninguno,gratuita,3,desempleado no residente,1,sí,sí,0
+< 1M,12,pagado,radio/televisión,674,1M - 10M,4 - 7 años,4,hombre casado,ninguno,1,sociedad de ahorros y préstamos,20,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,18,totalmente pagado,muebles,3244,< 1M,1 - 4 años,1,mujer,ninguno,4,otro,33,banco,propia,2,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,negocios,4591,> 100M,1 - 4 años,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,54,ninguno,propia,3,autónomo gerente,1,sí,sí,1
+1M - 10M,48,totalmente pagado,negocios,3844,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,4,desconocido/nada,34,ninguno,gratuita,1,residente no calificado,2,ninguno,sí,1
+1M - 10M,27,pagado,negocios,3915,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,36,ninguno,propia,1,empleado calificado,2,sí,sí,1
+desconocido,6,pagado,radio/televisión,2108,< 1M,4 - 7 años,2,hombre casado,ninguno,2,bienes raíces,29,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,45,pagado,radio/televisión,3031,1M - 10M,1 - 4 años,4,hombre soltero,aval,4,sociedad de ahorros y préstamos,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,9,crítico,educación,1501,< 1M,> 7 años,2,mujer,ninguno,3,otro,34,ninguno,propia,2,autónomo gerente,1,sí,sí,1
+desconocido,6,crítico,radio/televisión,1382,< 1M,1 - 4 años,1,mujer,ninguno,1,otro,28,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,12,pagado,muebles,951,1M - 10M,0 - 1 año,4,mujer,ninguno,4,otro,27,banco,alquilada,4,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,pagado,coche (usado),2760,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,36,banco,gratuita,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,retrasado,muebles,4297,< 1M,> 7 años,4,hombre divorciado,ninguno,3,desconocido/nada,40,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,9,crítico,educación,936,10M - 100M,> 7 años,4,hombre soltero,ninguno,2,otro,52,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,12,pagado,coche (nuevo),1168,< 1M,1 - 4 años,4,hombre casado,ninguno,3,bienes raíces,27,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,27,retrasado,negocios,5117,< 1M,4 - 7 años,3,hombre soltero,ninguno,4,otro,26,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,reentrenamiento,902,< 1M,4 - 7 años,4,hombre casado,ninguno,4,sociedad de ahorros y préstamos,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,12,crítico,coche (nuevo),1495,< 1M,> 7 años,4,hombre soltero,ninguno,1,bienes raíces,38,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+< 1M,30,crítico,coche (usado),10623,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,38,ninguno,gratuita,3,autónomo gerente,2,sí,sí,0
+desconocido,12,crítico,muebles,1935,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,43,ninguno,propia,3,empleado calificado,1,sí,sí,0
+1M - 10M,12,crítico,electrodomésticos domésticos,1424,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,negocios,6568,< 1M,1 - 4 años,2,hombre casado,ninguno,2,otro,21,tiendas,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,12,pagado,coche (usado),1413,> 100M,4 - 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,55,ninguno,propia,1,empleado calificado,1,ninguno,no,0
+desconocido,9,crítico,radio/televisión,3074,desconocido,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,33,ninguno,propia,2,empleado calificado,2,ninguno,sí,0
+desconocido,36,pagado,radio/televisión,3835,desconocido,> 7 años,2,mujer,ninguno,4,bienes raíces,45,ninguno,propia,1,residente no calificado,1,sí,sí,0
+< 1M,27,totalmente pagado,negocios,5293,< 1M,desempleado,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,50,tiendas,propia,2,empleado calificado,1,sí,sí,1
+> 10M,30,retrasado,negocios,1908,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,66,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,36,crítico,radio/televisión,3342,desconocido,> 7 años,4,hombre soltero,ninguno,2,otro,51,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,6,crítico,reentrenamiento,932,desconocido,4 - 7 años,1,mujer,ninguno,3,sociedad de ahorros y préstamos,39,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,18,totalmente pagado,negocios,3104,< 1M,4 - 7 años,3,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,31,banco,propia,1,empleado calificado,1,sí,sí,0
+> 10M,36,pagado,radio/televisión,3913,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,23,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,pagado,muebles,3021,< 1M,1 - 4 años,2,hombre divorciado,ninguno,2,bienes raíces,24,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+desconocido,10,pagado,coche (nuevo),1364,< 1M,1 - 4 años,2,mujer,ninguno,4,otro,64,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,12,pagado,radio/televisión,625,< 1M,0 - 1 año,4,hombre casado,aval,1,bienes raíces,26,banco,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,12,pagado,educación,1200,desconocido,1 - 4 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,23,banco,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,radio/televisión,707,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,bienes raíces,30,banco,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,retrasado,negocios,2978,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,32,ninguno,propia,2,empleado calificado,2,sí,sí,0
+desconocido,15,pagado,coche (usado),4657,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,otro,30,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,36,totalmente pagado,reparaciones,2613,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,48,pagado,radio/televisión,10961,> 100M,4 - 7 años,1,hombre soltero,co-solicitante,2,desconocido/nada,27,banco,propia,2,empleado calificado,1,sí,sí,1
+< 1M,12,pagado,muebles,7865,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,53,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,9,pagado,radio/televisión,1478,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,otro,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,24,pagado,muebles,3149,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,desconocido/nada,22,banco,gratuita,1,empleado calificado,1,ninguno,sí,0
+> 10M,36,pagado,radio/televisión,4210,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,9,pagado,coche (nuevo),2507,10M - 100M,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,51,ninguno,gratuita,1,residente no calificado,1,ninguno,sí,0
+desconocido,12,pagado,radio/televisión,2141,1M - 10M,4 - 7 años,3,hombre soltero,ninguno,1,desconocido/nada,35,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,radio/televisión,866,< 1M,1 - 4 años,4,hombre casado,aval,2,bienes raíces,25,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,4,crítico,radio/televisión,1544,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,bienes raíces,42,ninguno,propia,3,residente no calificado,2,ninguno,sí,0
+< 1M,24,pagado,radio/televisión,1823,< 1M,desempleado,4,hombre soltero,ninguno,2,otro,30,tiendas,propia,1,autónomo gerente,2,ninguno,sí,1
+1M - 10M,6,pagado,coche (nuevo),14555,desconocido,desempleado,1,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,23,ninguno,propia,1,desempleado no residente,1,sí,sí,1
+1M - 10M,21,pagado,negocios,2767,1M - 10M,> 7 años,4,hombre divorciado,ninguno,2,otro,61,banco,alquilada,2,residente no calificado,1,ninguno,sí,1
+desconocido,12,crítico,radio/televisión,1291,< 1M,1 - 4 años,4,mujer,ninguno,2,sociedad de ahorros y préstamos,35,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,30,pagado,radio/televisión,2522,< 1M,> 7 años,1,hombre soltero,aval,3,sociedad de ahorros y préstamos,39,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,24,pagado,coche (nuevo),915,desconocido,> 7 años,4,mujer,ninguno,2,otro,29,banco,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,6,pagado,radio/televisión,1595,< 1M,4 - 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,51,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,48,totalmente pagado,coche (usado),4605,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,24,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+desconocido,12,crítico,negocios,1185,< 1M,1 - 4 años,3,mujer,ninguno,2,bienes raíces,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,totalmente pagado en este banco,reentrenamiento,3447,10M - 100M,1 - 4 años,4,mujer,ninguno,3,bienes raíces,35,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+desconocido,24,pagado,negocios,1258,< 1M,4 - 7 años,4,hombre soltero,ninguno,1,bienes raíces,25,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,radio/televisión,717,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,52,ninguno,propia,3,empleado calificado,1,ninguno,sí,0
+desconocido,6,totalmente pagado,coche (nuevo),1204,1M - 10M,1 - 4 años,4,hombre soltero,ninguno,1,desconocido/nada,35,banco,alquilada,1,empleado calificado,1,ninguno,no,0
+> 10M,24,pagado,muebles,1925,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,radio/televisión,433,< 1M,desempleado,3,mujer,co-solicitante,4,bienes raíces,22,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,6,crítico,coche (nuevo),666,> 100M,4 - 7 años,3,mujer,ninguno,4,bienes raíces,39,ninguno,propia,2,residente no calificado,1,sí,sí,0
+> 10M,12,pagado,muebles,2251,< 1M,1 - 4 años,1,mujer,ninguno,2,otro,46,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,30,pagado,coche (nuevo),2150,< 1M,1 - 4 años,4,mujer,aval,2,desconocido/nada,24,banco,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,retrasado,muebles,4151,1M - 10M,1 - 4 años,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,35,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,muebles,2030,desconocido,4 - 7 años,2,hombre soltero,ninguno,1,otro,24,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,60,retrasado,radio/televisión,7418,desconocido,1 - 4 años,1,hombre soltero,ninguno,1,bienes raíces,27,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,24,crítico,radio/televisión,2684,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,bienes raíces,35,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,12,totalmente pagado en este banco,radio/televisión,2149,< 1M,1 - 4 años,4,hombre divorciado,ninguno,1,desconocido/nada,29,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+desconocido,15,pagado,coche (usado),3812,1M - 10M,0 - 1 año,1,mujer,ninguno,4,otro,23,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,11,crítico,radio/televisión,1154,1M - 10M,desempleado,4,mujer,ninguno,4,bienes raíces,57,ninguno,propia,3,residente no calificado,1,ninguno,sí,0
+< 1M,12,pagado,muebles,1657,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,radio/televisión,1603,< 1M,> 7 años,4,mujer,ninguno,4,otro,55,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,crítico,coche (nuevo),5302,< 1M,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,36,ninguno,gratuita,3,autónomo gerente,1,sí,sí,0
+desconocido,12,crítico,educación,2748,< 1M,> 7 años,2,mujer,ninguno,4,desconocido/nada,57,banco,gratuita,3,residente no calificado,1,ninguno,sí,0
+desconocido,10,crítico,coche (nuevo),1231,< 1M,> 7 años,3,hombre soltero,ninguno,4,bienes raíces,32,ninguno,propia,2,residente no calificado,2,ninguno,no,0
+1M - 10M,15,pagado,radio/televisión,802,< 1M,> 7 años,4,hombre soltero,ninguno,3,otro,37,ninguno,propia,1,empleado calificado,2,ninguno,sí,1
+desconocido,36,crítico,negocios,6304,desconocido,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,radio/televisión,1533,< 1M,0 - 1 año,4,mujer,ninguno,3,otro,38,tiendas,propia,1,empleado calificado,1,sí,sí,0
+< 1M,14,pagado,coche (nuevo),8978,< 1M,> 7 años,1,hombre divorciado,ninguno,4,sociedad de ahorros y préstamos,45,ninguno,propia,1,autónomo gerente,1,sí,no,1
+desconocido,24,pagado,radio/televisión,999,desconocido,> 7 años,4,hombre soltero,ninguno,2,otro,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,coche (nuevo),2662,desconocido,4 - 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,32,ninguno,propia,1,empleado calificado,1,ninguno,no,0
+desconocido,12,crítico,muebles,1402,10M - 100M,4 - 7 años,3,mujer,ninguno,4,otro,37,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,48,totalmente pagado en este banco,coche (nuevo),12169,desconocido,desempleado,4,hombre soltero,co-solicitante,4,desconocido/nada,36,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,48,pagado,radio/televisión,3060,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,bienes raíces,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+< 1M,30,pagado,reparaciones,11998,< 1M,0 - 1 año,1,hombre divorciado,ninguno,1,desconocido/nada,34,ninguno,propia,1,residente no calificado,1,sí,sí,1
+desconocido,9,pagado,radio/televisión,2697,< 1M,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,32,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,2404,< 1M,1 - 4 años,2,mujer,ninguno,2,otro,26,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,muebles,1262,desconocido,> 7 años,2,hombre divorciado,ninguno,4,sociedad de ahorros y préstamos,49,ninguno,propia,1,residente no calificado,1,sí,sí,0
+desconocido,6,pagado,muebles,4611,< 1M,0 - 1 año,1,mujer,ninguno,4,sociedad de ahorros y préstamos,32,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,pagado,radio/televisión,1901,1M - 10M,1 - 4 años,4,hombre soltero,ninguno,4,otro,29,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,15,crítico,coche (usado),3368,> 100M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,23,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,muebles,1574,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,bienes raíces,50,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+> 10M,18,totalmente pagado en este banco,radio/televisión,1445,desconocido,4 - 7 años,4,hombre soltero,ninguno,4,otro,49,banco,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,15,crítico,muebles,1520,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,63,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,crítico,coche (nuevo),3878,1M - 10M,0 - 1 año,4,hombre divorciado,ninguno,2,otro,37,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,47,pagado,coche (nuevo),10722,< 1M,0 - 1 año,1,mujer,ninguno,1,bienes raíces,35,ninguno,propia,1,residente no calificado,1,sí,sí,0
+< 1M,48,pagado,coche (usado),4788,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+1M - 10M,48,retrasado,otros,7582,1M - 10M,desempleado,2,hombre soltero,ninguno,4,desconocido/nada,31,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,12,pagado,radio/televisión,1092,< 1M,1 - 4 años,4,mujer,aval,4,bienes raíces,49,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,24,retrasado,radio/televisión,1024,< 1M,0 - 1 año,4,hombre casado,ninguno,4,bienes raíces,48,tiendas,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,12,pagado,negocios,1076,< 1M,1 - 4 años,2,hombre casado,ninguno,2,bienes raíces,26,ninguno,propia,1,empleado calificado,1,sí,no,0
+1M - 10M,36,pagado,coche (usado),9398,< 1M,0 - 1 año,1,hombre casado,ninguno,4,otro,28,ninguno,alquilada,1,autónomo gerente,1,sí,sí,1
+< 1M,24,crítico,coche (usado),6419,< 1M,> 7 años,2,mujer,ninguno,4,desconocido/nada,44,ninguno,gratuita,2,autónomo gerente,2,sí,sí,0
+> 10M,42,crítico,coche (usado),4796,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,56,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+desconocido,48,crítico,negocios,7629,desconocido,> 7 años,4,hombre divorciado,ninguno,2,otro,46,banco,propia,2,autónomo gerente,2,ninguno,sí,0
+1M - 10M,48,pagado,muebles,9960,< 1M,0 - 1 año,1,mujer,ninguno,2,otro,26,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,12,pagado,coche (usado),4675,desconocido,0 - 1 año,1,mujer,ninguno,4,otro,20,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,10,pagado,coche (nuevo),1287,desconocido,> 7 años,4,hombre soltero,co-solicitante,2,sociedad de ahorros y préstamos,45,ninguno,propia,1,residente no calificado,1,ninguno,no,0
+desconocido,18,pagado,muebles,2515,< 1M,1 - 4 años,3,hombre soltero,ninguno,4,bienes raíces,43,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,21,crítico,muebles,2745,> 100M,4 - 7 años,3,hombre soltero,ninguno,2,otro,32,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,6,pagado,coche (nuevo),672,< 1M,desempleado,1,mujer,ninguno,4,bienes raíces,54,ninguno,propia,1,desempleado no residente,1,sí,sí,0
+1M - 10M,36,totalmente pagado,radio/televisión,3804,< 1M,1 - 4 años,4,mujer,ninguno,1,otro,42,ninguno,propia,1,empleado calificado,1,sí,sí,1
+> 10M,24,crítico,coche (nuevo),1344,desconocido,4 - 7 años,4,hombre soltero,ninguno,2,bienes raíces,37,banco,propia,2,residente no calificado,2,ninguno,sí,1
+< 1M,10,crítico,coche (nuevo),1038,< 1M,4 - 7 años,4,hombre soltero,co-solicitante,3,sociedad de ahorros y préstamos,49,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,48,crítico,coche (nuevo),10127,10M - 100M,1 - 4 años,2,hombre soltero,ninguno,2,desconocido/nada,44,banco,gratuita,1,empleado calificado,1,ninguno,sí,1
+desconocido,6,pagado,muebles,1543,> 100M,1 - 4 años,4,hombre divorciado,ninguno,2,bienes raíces,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,30,pagado,coche (usado),4811,desconocido,4 - 7 años,2,mujer,ninguno,4,sociedad de ahorros y préstamos,24,tiendas,alquilada,1,residente no calificado,1,ninguno,sí,0
+< 1M,12,pagado,radio/televisión,727,1M - 10M,0 - 1 año,4,hombre casado,ninguno,3,desconocido/nada,33,ninguno,propia,1,residente no calificado,1,sí,sí,1
+1M - 10M,8,pagado,muebles,1237,< 1M,1 - 4 años,3,mujer,ninguno,4,bienes raíces,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,9,pagado,coche (nuevo),276,< 1M,1 - 4 años,4,hombre casado,ninguno,4,bienes raíces,22,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,48,pagado,otros,5381,desconocido,desempleado,3,hombre soltero,ninguno,4,desconocido/nada,40,banco,gratuita,1,desempleado no residente,1,sí,sí,0
+desconocido,24,pagado,muebles,5511,1M - 10M,1 - 4 años,4,hombre soltero,ninguno,1,otro,25,tiendas,propia,1,empleado calificado,1,ninguno,sí,0
+> 10M,24,pagado,muebles,3749,< 1M,0 - 1 año,2,mujer,ninguno,4,otro,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (nuevo),685,< 1M,4 - 7 años,2,hombre casado,ninguno,3,otro,25,banco,propia,1,residente no calificado,1,ninguno,sí,1
+> 10M,4,pagado,coche (nuevo),1494,desconocido,0 - 1 año,1,hombre soltero,ninguno,2,bienes raíces,29,ninguno,propia,1,residente no calificado,2,ninguno,no,0
+< 1M,36,totalmente pagado en este banco,muebles,2746,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,31,banco,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,12,pagado,muebles,708,< 1M,1 - 4 años,2,hombre soltero,aval,3,sociedad de ahorros y préstamos,38,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+1M - 10M,24,pagado,muebles,4351,desconocido,1 - 4 años,1,mujer,ninguno,4,sociedad de ahorros y préstamos,48,ninguno,propia,1,residente no calificado,1,sí,sí,0
+desconocido,12,crítico,educación,701,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,32,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,15,retrasado,muebles,3643,< 1M,> 7 años,1,mujer,ninguno,4,sociedad de ahorros y préstamos,27,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,30,crítico,coche (nuevo),4249,< 1M,desempleado,4,hombre casado,ninguno,2,otro,28,ninguno,propia,2,autónomo gerente,1,ninguno,sí,1
+< 1M,24,pagado,radio/televisión,1938,< 1M,0 - 1 año,4,hombre divorciado,ninguno,3,sociedad de ahorros y préstamos,32,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,24,pagado,coche (usado),2910,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,desconocido/nada,34,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+< 1M,18,pagado,muebles,2659,> 100M,1 - 4 años,4,hombre soltero,ninguno,2,otro,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,coche (nuevo),1028,< 1M,1 - 4 años,4,mujer,ninguno,3,bienes raíces,36,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,8,crítico,coche (nuevo),3398,< 1M,4 - 7 años,1,hombre soltero,ninguno,4,bienes raíces,39,ninguno,propia,2,residente no calificado,1,ninguno,no,0
+desconocido,12,crítico,muebles,5801,desconocido,> 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,49,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,coche (nuevo),1525,> 100M,4 - 7 años,4,mujer,ninguno,3,otro,34,ninguno,propia,1,empleado calificado,2,sí,sí,0
+> 10M,36,pagado,radio/televisión,4473,< 1M,> 7 años,4,hombre soltero,ninguno,2,otro,31,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,6,pagado,radio/televisión,1068,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,28,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,24,crítico,coche (usado),6615,< 1M,desempleado,2,hombre soltero,ninguno,4,desconocido/nada,75,ninguno,gratuita,2,autónomo gerente,1,sí,sí,0
+desconocido,18,crítico,educación,1864,1M - 10M,1 - 4 años,4,mujer,ninguno,2,bienes raíces,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,60,pagado,coche (nuevo),7408,1M - 10M,0 - 1 año,4,mujer,ninguno,2,sociedad de ahorros y préstamos,24,ninguno,propia,1,autónomo gerente,1,ninguno,sí,1
+desconocido,48,crítico,coche (usado),11590,1M - 10M,1 - 4 años,2,mujer,ninguno,4,otro,24,banco,alquilada,2,residente no calificado,1,ninguno,sí,1
+< 1M,24,totalmente pagado,muebles,4110,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,23,banco,alquilada,2,empleado calificado,2,ninguno,sí,1
+< 1M,6,crítico,muebles,3384,< 1M,1 - 4 años,1,hombre divorciado,ninguno,4,bienes raíces,44,ninguno,alquilada,1,autónomo gerente,1,sí,sí,1
+1M - 10M,13,pagado,radio/televisión,2101,< 1M,0 - 1 año,2,mujer,aval,4,sociedad de ahorros y préstamos,23,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,15,pagado,electrodomésticos domésticos,1275,desconocido,1 - 4 años,4,mujer,ninguno,2,otro,24,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,24,pagado,muebles,4169,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,10,pagado,muebles,1521,< 1M,1 - 4 años,4,hombre divorciado,ninguno,2,otro,31,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,crítico,educación,5743,< 1M,0 - 1 año,2,mujer,ninguno,4,desconocido/nada,24,ninguno,gratuita,2,empleado calificado,1,sí,sí,0
+< 1M,21,pagado,muebles,3599,< 1M,4 - 7 años,1,mujer,ninguno,4,otro,26,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,radio/televisión,3213,10M - 100M,0 - 1 año,1,hombre casado,ninguno,3,bienes raíces,25,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,negocios,4439,< 1M,> 7 años,1,hombre soltero,co-solicitante,1,bienes raíces,33,banco,propia,1,autónomo gerente,1,sí,sí,0
+> 10M,10,pagado,coche (nuevo),3949,< 1M,0 - 1 año,1,hombre soltero,aval,1,sociedad de ahorros y préstamos,37,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+desconocido,15,crítico,radio/televisión,1459,< 1M,1 - 4 años,4,mujer,ninguno,2,otro,43,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,13,crítico,radio/televisión,882,< 1M,0 - 1 año,4,hombre soltero,aval,4,bienes raíces,23,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,radio/televisión,3758,10M - 100M,desempleado,1,mujer,ninguno,4,desconocido/nada,23,ninguno,alquilada,1,desempleado no residente,1,ninguno,sí,0
+desconocido,6,retrasado,negocios,1743,1M - 10M,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,34,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,9,crítico,educación,1136,> 100M,> 7 años,4,hombre soltero,ninguno,3,desconocido/nada,32,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+desconocido,9,pagado,electrodomésticos domésticos,1236,< 1M,0 - 1 año,1,mujer,ninguno,4,bienes raíces,23,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,9,pagado,muebles,959,< 1M,1 - 4 años,1,mujer,ninguno,2,otro,29,ninguno,propia,1,empleado calificado,1,ninguno,no,1
+desconocido,18,crítico,coche (usado),3229,desconocido,desempleado,2,hombre soltero,ninguno,4,desconocido/nada,38,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,12,totalmente pagado,radio/televisión,6199,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,28,ninguno,alquilada,2,empleado calificado,1,sí,sí,1
+desconocido,10,pagado,educación,727,10M - 100M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,46,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+1M - 10M,24,pagado,coche (nuevo),1246,< 1M,0 - 1 año,4,hombre soltero,ninguno,2,bienes raíces,23,tiendas,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,12,crítico,radio/televisión,2331,desconocido,> 7 años,1,hombre soltero,co-solicitante,4,bienes raíces,49,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,36,retrasado,radio/televisión,4463,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,26,ninguno,propia,2,autónomo gerente,1,sí,sí,1
+desconocido,12,pagado,radio/televisión,776,< 1M,1 - 4 años,4,hombre casado,ninguno,2,bienes raíces,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,30,pagado,muebles,2406,< 1M,4 - 7 años,4,mujer,ninguno,4,bienes raíces,23,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,18,pagado,educación,1239,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,61,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+> 10M,12,pagado,radio/televisión,3399,desconocido,> 7 años,2,hombre soltero,ninguno,3,otro,37,ninguno,propia,1,autónomo gerente,1,ninguno,sí,0
+> 10M,12,retrasado,coche (nuevo),2247,< 1M,1 - 4 años,2,mujer,ninguno,2,otro,36,tiendas,propia,2,empleado calificado,1,sí,sí,0
+desconocido,6,pagado,muebles,1766,< 1M,1 - 4 años,1,hombre casado,ninguno,2,sociedad de ahorros y préstamos,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,muebles,2473,< 1M,desempleado,4,hombre soltero,ninguno,1,otro,25,ninguno,propia,1,desempleado no residente,1,ninguno,sí,1
+desconocido,12,pagado,negocios,1542,< 1M,4 - 7 años,2,hombre soltero,ninguno,4,otro,36,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,18,crítico,coche (usado),3850,< 1M,4 - 7 años,3,hombre soltero,ninguno,1,otro,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,muebles,3650,< 1M,0 - 1 año,1,mujer,ninguno,4,otro,22,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,36,pagado,muebles,3446,< 1M,> 7 años,4,hombre soltero,ninguno,2,otro,42,ninguno,propia,1,empleado calificado,2,ninguno,sí,1
+1M - 10M,18,pagado,muebles,3001,< 1M,4 - 7 años,2,mujer,ninguno,4,bienes raíces,40,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,pagado,coche (nuevo),3079,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,6070,< 1M,> 7 años,3,hombre soltero,ninguno,4,otro,33,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,10,crítico,muebles,2146,< 1M,0 - 1 año,1,mujer,ninguno,3,bienes raíces,23,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+desconocido,60,crítico,coche (nuevo),13756,desconocido,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,63,banco,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,60,totalmente pagado en este banco,otros,14782,1M - 10M,> 7 años,3,mujer,ninguno,4,desconocido/nada,60,banco,gratuita,2,autónomo gerente,1,sí,sí,1
+< 1M,48,totalmente pagado en este banco,negocios,7685,< 1M,4 - 7 años,2,mujer,aval,4,otro,37,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,18,retrasado,radio/televisión,2320,< 1M,desempleado,2,hombre casado,ninguno,3,bienes raíces,34,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,7,retrasado,radio/televisión,846,desconocido,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,36,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,coche (nuevo),14318,< 1M,> 7 años,4,hombre soltero,ninguno,2,desconocido/nada,57,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,6,crítico,coche (nuevo),362,1M - 10M,1 - 4 años,4,mujer,ninguno,4,otro,52,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,20,pagado,muebles,2212,desconocido,4 - 7 años,4,hombre soltero,ninguno,4,otro,39,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,pagado,coche (usado),12976,< 1M,desempleado,3,mujer,ninguno,4,desconocido/nada,38,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,22,pagado,coche (nuevo),1283,desconocido,4 - 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,25,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+> 10M,12,pagado,coche (nuevo),1330,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,bienes raíces,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,30,retrasado,negocios,4272,1M - 10M,1 - 4 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,26,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,2238,< 1M,1 - 4 años,2,mujer,ninguno,1,otro,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,radio/televisión,1126,desconocido,0 - 1 año,4,mujer,ninguno,2,bienes raíces,21,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,crítico,muebles,7374,< 1M,desempleado,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,40,tiendas,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,15,crítico,negocios,2326,10M - 100M,1 - 4 años,2,hombre soltero,ninguno,4,otro,27,banco,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,9,pagado,negocios,1449,< 1M,4 - 7 años,3,mujer,ninguno,2,otro,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,coche (nuevo),1820,< 1M,1 - 4 años,2,hombre casado,ninguno,2,sociedad de ahorros y préstamos,30,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,12,pagado,muebles,983,> 100M,0 - 1 año,1,mujer,ninguno,4,bienes raíces,19,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+< 1M,36,pagado,coche (nuevo),3249,< 1M,4 - 7 años,2,hombre soltero,ninguno,4,desconocido/nada,39,banco,gratuita,1,autónomo gerente,2,sí,sí,0
+< 1M,6,crítico,radio/televisión,1957,< 1M,4 - 7 años,1,mujer,ninguno,4,otro,31,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,9,crítico,muebles,2406,< 1M,desempleado,2,hombre soltero,ninguno,3,otro,31,ninguno,propia,1,autónomo gerente,1,ninguno,sí,0
+1M - 10M,39,retrasado,educación,11760,1M - 10M,4 - 7 años,2,hombre soltero,ninguno,3,desconocido/nada,32,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+< 1M,12,pagado,muebles,2578,< 1M,desempleado,3,mujer,ninguno,4,desconocido/nada,55,ninguno,gratuita,1,autónomo gerente,1,ninguno,sí,0
+< 1M,36,crítico,muebles,2348,< 1M,1 - 4 años,3,hombre casado,ninguno,2,sociedad de ahorros y préstamos,46,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,12,pagado,coche (nuevo),1223,< 1M,> 7 años,1,hombre divorciado,ninguno,1,bienes raíces,46,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+desconocido,24,crítico,radio/televisión,1516,> 100M,1 - 4 años,4,mujer,ninguno,1,bienes raíces,43,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,18,pagado,radio/televisión,1473,< 1M,0 - 1 año,3,hombre casado,ninguno,4,bienes raíces,39,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,18,crítico,negocios,1887,desconocido,1 - 4 años,4,hombre casado,ninguno,4,bienes raíces,28,banco,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,retrasado,negocios,8648,< 1M,0 - 1 año,2,hombre soltero,ninguno,2,otro,27,banco,propia,2,empleado calificado,1,sí,sí,1
+desconocido,14,retrasado,coche (nuevo),802,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,27,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,18,retrasado,coche (nuevo),2899,desconocido,> 7 años,4,hombre soltero,ninguno,4,otro,43,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+1M - 10M,24,pagado,radio/televisión,2039,< 1M,0 - 1 año,1,hombre casado,ninguno,1,sociedad de ahorros y préstamos,22,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,24,crítico,coche (usado),2197,desconocido,4 - 7 años,4,hombre soltero,ninguno,4,otro,43,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,15,pagado,radio/televisión,1053,< 1M,0 - 1 año,4,hombre casado,ninguno,2,bienes raíces,27,ninguno,propia,1,empleado calificado,1,ninguno,no,0
+desconocido,24,pagado,radio/televisión,3235,10M - 100M,> 7 años,3,hombre divorciado,ninguno,2,otro,26,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+> 10M,12,crítico,coche (nuevo),939,10M - 100M,4 - 7 años,4,hombre casado,ninguno,2,bienes raíces,28,ninguno,propia,3,empleado calificado,1,sí,sí,1
+1M - 10M,24,pagado,radio/televisión,1967,< 1M,> 7 años,4,mujer,ninguno,4,otro,20,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,33,crítico,coche (usado),7253,< 1M,4 - 7 años,3,hombre soltero,ninguno,2,otro,35,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+desconocido,12,crítico,negocios,2292,< 1M,desempleado,4,hombre soltero,ninguno,2,otro,42,tiendas,propia,2,autónomo gerente,1,sí,sí,1
+desconocido,10,pagado,coche (nuevo),1597,10M - 100M,1 - 4 años,3,hombre soltero,ninguno,2,desconocido/nada,40,ninguno,alquilada,1,residente no calificado,2,ninguno,no,0
+< 1M,24,pagado,coche (nuevo),1381,desconocido,1 - 4 años,4,mujer,ninguno,2,sociedad de ahorros y préstamos,35,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,36,crítico,coche (usado),5842,< 1M,> 7 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,35,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,12,pagado,coche (nuevo),2579,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,bienes raíces,33,ninguno,propia,1,residente no calificado,2,ninguno,sí,1
+< 1M,18,retrasado,educación,8471,desconocido,1 - 4 años,1,mujer,ninguno,2,otro,23,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+desconocido,21,pagado,coche (nuevo),2782,10M - 100M,4 - 7 años,1,mujer,ninguno,2,otro,31,banco,propia,1,autónomo gerente,1,ninguno,sí,0
+1M - 10M,18,pagado,coche (nuevo),1042,desconocido,1 - 4 años,4,mujer,ninguno,2,sociedad de ahorros y préstamos,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,15,pagado,coche (nuevo),3186,> 100M,4 - 7 años,2,mujer,ninguno,3,otro,20,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (usado),2028,desconocido,1 - 4 años,4,hombre soltero,ninguno,2,otro,30,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,crítico,coche (nuevo),958,< 1M,4 - 7 años,2,hombre soltero,ninguno,3,bienes raíces,47,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+desconocido,21,retrasado,muebles,1591,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,3,bienes raíces,34,ninguno,propia,2,autónomo gerente,1,ninguno,sí,0
+1M - 10M,12,pagado,muebles,2762,desconocido,> 7 años,1,mujer,ninguno,2,sociedad de ahorros y préstamos,25,banco,propia,1,empleado calificado,1,sí,sí,1
+1M - 10M,18,pagado,coche (usado),2779,< 1M,1 - 4 años,1,hombre casado,ninguno,3,otro,21,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,28,crítico,radio/televisión,2743,< 1M,> 7 años,4,hombre soltero,ninguno,2,otro,29,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,1149,> 100M,1 - 4 años,4,hombre soltero,ninguno,3,bienes raíces,46,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,9,pagado,muebles,1313,< 1M,> 7 años,1,hombre soltero,ninguno,4,otro,20,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,crítico,reparaciones,1190,< 1M,desempleado,2,mujer,ninguno,4,desconocido/nada,55,ninguno,gratuita,3,desempleado no residente,2,ninguno,sí,1
+desconocido,5,pagado,negocios,3448,< 1M,4 - 7 años,1,hombre soltero,ninguno,4,bienes raíces,74,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,otros,11328,< 1M,1 - 4 años,2,hombre soltero,co-solicitante,3,otro,29,banco,propia,2,autónomo gerente,1,sí,sí,1
+< 1M,6,crítico,muebles,1872,< 1M,desempleado,4,hombre soltero,ninguno,4,desconocido/nada,36,ninguno,gratuita,3,autónomo gerente,1,sí,sí,0
+desconocido,24,crítico,reparaciones,2058,< 1M,1 - 4 años,4,hombre divorciado,ninguno,2,bienes raíces,33,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,9,pagado,muebles,2136,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,1484,desconocido,1 - 4 años,2,hombre casado,ninguno,1,bienes raíces,25,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,6,pagado,reparaciones,660,10M - 100M,4 - 7 años,2,hombre casado,ninguno,4,bienes raíces,23,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+desconocido,24,crítico,coche (nuevo),1287,> 100M,> 7 años,4,mujer,ninguno,4,bienes raíces,37,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,42,crítico,reparaciones,3394,< 1M,desempleado,4,hombre soltero,co-solicitante,4,otro,65,ninguno,propia,2,desempleado no residente,1,ninguno,sí,0
+> 10M,12,totalmente pagado en este banco,negocios,609,< 1M,0 - 1 año,4,mujer,ninguno,1,bienes raíces,26,ninguno,propia,1,desempleado no residente,1,ninguno,sí,1
+desconocido,12,pagado,coche (nuevo),1884,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,39,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,12,pagado,muebles,1620,< 1M,1 - 4 años,2,mujer,co-solicitante,3,sociedad de ahorros y préstamos,30,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,20,retrasado,otros,2629,< 1M,1 - 4 años,2,hombre soltero,ninguno,3,otro,29,banco,propia,2,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,educación,719,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,41,banco,propia,1,residente no calificado,2,ninguno,sí,1
+1M - 10M,48,crítico,muebles,5096,< 1M,1 - 4 años,2,mujer,ninguno,3,otro,30,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,9,crítico,educación,1244,desconocido,> 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,41,ninguno,alquilada,2,residente no calificado,1,ninguno,sí,0
+< 1M,36,pagado,coche (nuevo),1842,< 1M,0 - 1 año,4,mujer,ninguno,4,otro,34,ninguno,propia,1,empleado calificado,1,sí,sí,1
+1M - 10M,7,pagado,radio/televisión,2576,< 1M,1 - 4 años,2,hombre soltero,aval,2,bienes raíces,35,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+> 10M,12,pagado,muebles,1424,desconocido,> 7 años,3,mujer,ninguno,4,bienes raíces,55,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,15,retrasado,reparaciones,1512,> 100M,1 - 4 años,3,hombre casado,ninguno,3,sociedad de ahorros y préstamos,61,tiendas,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,36,crítico,coche (usado),11054,desconocido,1 - 4 años,4,hombre soltero,ninguno,2,otro,30,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,6,pagado,radio/televisión,518,< 1M,1 - 4 años,3,mujer,ninguno,1,bienes raíces,29,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,12,totalmente pagado,muebles,2759,< 1M,> 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,34,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (usado),2670,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,35,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,24,pagado,coche (nuevo),4817,< 1M,4 - 7 años,2,hombre soltero,co-solicitante,3,sociedad de ahorros y préstamos,31,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,24,pagado,coche (usado),2679,< 1M,0 - 1 año,4,mujer,ninguno,1,desconocido/nada,29,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,11,crítico,coche (nuevo),3905,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,36,ninguno,alquilada,2,empleado calificado,2,ninguno,sí,0
+< 1M,12,pagado,coche (usado),3386,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,35,ninguno,gratuita,1,empleado calificado,1,sí,sí,1
+< 1M,6,pagado,electrodomésticos domésticos,343,< 1M,0 - 1 año,4,mujer,ninguno,1,bienes raíces,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,radio/televisión,4594,< 1M,0 - 1 año,3,hombre soltero,ninguno,2,otro,32,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,36,pagado,muebles,3620,< 1M,1 - 4 años,1,hombre soltero,aval,2,sociedad de ahorros y préstamos,37,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,15,pagado,coche (nuevo),1721,< 1M,0 - 1 año,2,hombre soltero,ninguno,3,bienes raíces,36,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,muebles,3017,< 1M,0 - 1 año,3,mujer,ninguno,1,bienes raíces,34,ninguno,alquilada,1,autónomo gerente,1,ninguno,sí,0
+1M - 10M,12,pagado,reentrenamiento,754,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,38,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,pagado,negocios,1950,< 1M,4 - 7 años,4,hombre soltero,ninguno,1,otro,34,tiendas,propia,2,empleado calificado,1,sí,sí,0
+< 1M,24,pagado,coche (usado),2924,< 1M,1 - 4 años,3,hombre soltero,aval,4,desconocido/nada,63,banco,propia,1,empleado calificado,2,sí,sí,0
+< 1M,24,retrasado,radio/televisión,1659,< 1M,0 - 1 año,4,mujer,ninguno,2,otro,29,ninguno,alquilada,1,residente no calificado,1,sí,sí,1
+desconocido,48,retrasado,radio/televisión,7238,desconocido,> 7 años,3,hombre soltero,ninguno,3,otro,32,banco,propia,2,empleado calificado,2,ninguno,sí,0
+desconocido,33,retrasado,negocios,2764,< 1M,1 - 4 años,2,mujer,ninguno,2,otro,26,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,24,retrasado,coche (usado),4679,< 1M,4 - 7 años,3,hombre soltero,ninguno,3,otro,35,ninguno,propia,2,residente no calificado,1,sí,sí,0
+1M - 10M,24,pagado,radio/televisión,3092,1M - 10M,0 - 1 año,3,hombre casado,ninguno,2,otro,22,ninguno,alquilada,1,empleado calificado,1,sí,sí,1
+< 1M,6,pagado,educación,448,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,9,pagado,coche (nuevo),654,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,otro,28,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,6,pagado,reentrenamiento,1238,desconocido,desempleado,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,36,ninguno,propia,1,autónomo gerente,2,sí,sí,0
+1M - 10M,18,crítico,radio/televisión,1245,< 1M,1 - 4 años,4,hombre casado,ninguno,2,otro,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,18,totalmente pagado,muebles,3114,< 1M,0 - 1 año,1,mujer,ninguno,4,sociedad de ahorros y préstamos,26,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,39,pagado,coche (usado),2569,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,4,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+> 10M,24,pagado,radio/televisión,5152,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,otro,25,banco,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,negocios,1037,1M - 10M,4 - 7 años,3,hombre soltero,ninguno,4,bienes raíces,39,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,15,crítico,muebles,1478,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,44,ninguno,propia,2,empleado calificado,2,sí,sí,0
+1M - 10M,12,crítico,radio/televisión,3573,< 1M,1 - 4 años,1,mujer,ninguno,1,bienes raíces,23,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,coche (nuevo),1201,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,30,pagado,muebles,3622,> 100M,> 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,57,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+desconocido,15,retrasado,muebles,960,> 100M,4 - 7 años,3,mujer,ninguno,2,sociedad de ahorros y préstamos,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,coche (nuevo),1163,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,44,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,6,retrasado,coche (nuevo),1209,< 1M,desempleado,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,47,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,12,pagado,radio/televisión,3077,< 1M,1 - 4 años,2,hombre soltero,ninguno,4,otro,52,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,coche (nuevo),3757,< 1M,> 7 años,4,mujer,co-solicitante,4,desconocido/nada,62,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+desconocido,10,pagado,coche (nuevo),1418,1M - 10M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,35,ninguno,alquilada,1,residente no calificado,1,ninguno,no,0
+desconocido,6,pagado,coche (nuevo),3518,< 1M,1 - 4 años,2,hombre soltero,aval,3,sociedad de ahorros y préstamos,26,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,radio/televisión,1934,< 1M,> 7 años,2,hombre soltero,ninguno,2,desconocido/nada,26,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,27,totalmente pagado,negocios,8318,< 1M,> 7 años,2,mujer,ninguno,4,desconocido/nada,42,ninguno,gratuita,2,autónomo gerente,1,sí,sí,1
+desconocido,6,crítico,radio/televisión,1237,1M - 10M,1 - 4 años,1,mujer,ninguno,1,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,6,pagado,radio/televisión,368,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,38,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,crítico,coche (nuevo),2122,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,39,ninguno,alquilada,2,residente no calificado,2,ninguno,no,0
+< 1M,24,pagado,muebles,2996,desconocido,1 - 4 años,2,hombre casado,ninguno,4,otro,20,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,36,pagado,muebles,9034,1M - 10M,0 - 1 año,4,hombre soltero,co-solicitante,1,desconocido/nada,29,ninguno,alquilada,1,autónomo gerente,1,sí,sí,1
+desconocido,24,crítico,muebles,1585,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,40,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,radio/televisión,1301,< 1M,> 7 años,4,hombre casado,aval,2,bienes raíces,32,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+> 10M,6,crítico,coche (nuevo),1323,1M - 10M,> 7 años,2,hombre divorciado,ninguno,4,otro,28,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,24,pagado,coche (nuevo),3123,< 1M,0 - 1 año,4,mujer,ninguno,1,sociedad de ahorros y préstamos,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,36,pagado,coche (usado),5493,< 1M,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,42,ninguno,gratuita,1,empleado calificado,2,ninguno,sí,0
+> 10M,9,pagado,radio/televisión,1126,1M - 10M,> 7 años,2,hombre divorciado,ninguno,4,bienes raíces,49,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,crítico,radio/televisión,1216,1M - 10M,0 - 1 año,4,hombre soltero,ninguno,4,desconocido/nada,38,banco,propia,2,empleado calificado,2,ninguno,sí,1
+< 1M,24,pagado,coche (nuevo),1207,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,24,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,10,pagado,coche (nuevo),1309,desconocido,1 - 4 años,4,hombre soltero,aval,4,sociedad de ahorros y préstamos,27,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+> 10M,15,crítico,coche (usado),2360,10M - 100M,1 - 4 años,2,hombre soltero,ninguno,2,otro,36,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,15,totalmente pagado en este banco,coche (nuevo),6850,1M - 10M,desempleado,1,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,34,ninguno,propia,1,autónomo gerente,2,sí,sí,1
+desconocido,24,pagado,radio/televisión,1413,< 1M,1 - 4 años,4,hombre casado,ninguno,2,sociedad de ahorros y préstamos,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,39,pagado,coche (usado),8588,1M - 10M,> 7 años,4,hombre soltero,ninguno,2,otro,45,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,12,pagado,coche (nuevo),759,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,bienes raíces,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,36,pagado,coche (usado),4686,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,desconocido/nada,32,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+> 10M,15,pagado,negocios,2687,< 1M,4 - 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,26,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+1M - 10M,12,retrasado,radio/televisión,585,< 1M,1 - 4 años,4,hombre casado,co-solicitante,4,bienes raíces,20,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (nuevo),2255,desconocido,0 - 1 año,4,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,54,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,crítico,coche (nuevo),609,< 1M,4 - 7 años,4,mujer,ninguno,3,sociedad de ahorros y préstamos,37,ninguno,propia,2,empleado calificado,1,ninguno,no,0
+< 1M,6,crítico,coche (nuevo),1361,< 1M,0 - 1 año,2,hombre soltero,ninguno,4,bienes raíces,40,ninguno,propia,1,residente no calificado,2,ninguno,no,0
+desconocido,36,crítico,muebles,7127,< 1M,0 - 1 año,2,mujer,ninguno,4,sociedad de ahorros y préstamos,23,ninguno,alquilada,2,empleado calificado,1,sí,sí,1
+< 1M,6,pagado,coche (nuevo),1203,1M - 10M,> 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,43,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,6,crítico,radio/televisión,700,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,36,ninguno,gratuita,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,crítico,reparaciones,5507,< 1M,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,44,ninguno,gratuita,2,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,3190,< 1M,1 - 4 años,2,mujer,ninguno,2,bienes raíces,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,48,totalmente pagado,muebles,7119,< 1M,1 - 4 años,3,hombre soltero,ninguno,4,desconocido/nada,53,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+desconocido,24,pagado,coche (usado),3488,1M - 10M,4 - 7 años,3,mujer,ninguno,4,otro,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,pagado,radio/televisión,1113,< 1M,1 - 4 años,4,mujer,aval,4,bienes raíces,26,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+1M - 10M,26,pagado,coche (usado),7966,< 1M,0 - 1 año,2,hombre soltero,ninguno,3,otro,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,15,crítico,educación,1532,1M - 10M,1 - 4 años,4,mujer,ninguno,3,otro,31,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,4,crítico,radio/televisión,1503,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,bienes raíces,42,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+< 1M,36,pagado,radio/televisión,2302,< 1M,1 - 4 años,4,hombre divorciado,ninguno,4,otro,31,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,6,pagado,coche (nuevo),662,< 1M,0 - 1 año,3,hombre soltero,ninguno,4,bienes raíces,41,ninguno,propia,1,residente no calificado,2,sí,sí,0
+1M - 10M,36,pagado,educación,2273,< 1M,4 - 7 años,3,hombre soltero,ninguno,1,otro,32,ninguno,propia,2,empleado calificado,2,ninguno,sí,0
+1M - 10M,15,pagado,coche (nuevo),2631,1M - 10M,1 - 4 años,2,mujer,ninguno,4,otro,28,ninguno,alquilada,2,empleado calificado,1,sí,sí,1
+desconocido,12,retrasado,coche (usado),1503,< 1M,1 - 4 años,4,hombre casado,ninguno,4,bienes raíces,41,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,radio/televisión,1311,1M - 10M,4 - 7 años,4,hombre casado,ninguno,3,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,radio/televisión,3105,desconocido,0 - 1 año,4,hombre soltero,ninguno,2,otro,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+> 10M,21,crítico,educación,2319,< 1M,0 - 1 año,2,hombre divorciado,ninguno,1,otro,33,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,6,pagado,coche (nuevo),1374,desconocido,desempleado,4,mujer,ninguno,3,sociedad de ahorros y préstamos,75,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,18,crítico,muebles,3612,< 1M,> 7 años,3,mujer,ninguno,4,sociedad de ahorros y préstamos,37,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,48,pagado,coche (nuevo),7763,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,42,banco,gratuita,1,autónomo gerente,1,ninguno,sí,1
+> 10M,18,pagado,muebles,3049,< 1M,0 - 1 año,1,mujer,ninguno,1,sociedad de ahorros y préstamos,45,tiendas,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,1534,< 1M,0 - 1 año,1,hombre casado,ninguno,1,bienes raíces,23,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,retrasado,coche (nuevo),2032,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,60,ninguno,gratuita,2,empleado calificado,1,sí,sí,0
+< 1M,30,pagado,muebles,6350,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,31,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+> 10M,18,pagado,muebles,2864,< 1M,1 - 4 años,2,hombre soltero,ninguno,1,bienes raíces,34,ninguno,propia,1,residente no calificado,2,ninguno,sí,1
+desconocido,12,crítico,coche (nuevo),1255,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,61,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,24,retrasado,coche (nuevo),1333,< 1M,desempleado,4,hombre soltero,ninguno,2,bienes raíces,43,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+desconocido,24,crítico,coche (nuevo),2022,< 1M,1 - 4 años,4,mujer,ninguno,4,otro,37,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,radio/televisión,1552,< 1M,4 - 7 años,3,hombre soltero,ninguno,1,otro,32,banco,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,12,totalmente pagado en este banco,radio/televisión,626,< 1M,1 - 4 años,4,mujer,ninguno,4,bienes raíces,24,banco,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,48,crítico,coche (usado),8858,desconocido,4 - 7 años,2,hombre soltero,ninguno,1,desconocido/nada,35,ninguno,gratuita,2,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,reparaciones,996,desconocido,4 - 7 años,4,mujer,ninguno,4,bienes raíces,23,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,6,totalmente pagado en este banco,radio/televisión,1750,10M - 100M,> 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,45,banco,propia,1,residente no calificado,2,ninguno,sí,0
+< 1M,48,pagado,radio/televisión,6999,< 1M,4 - 7 años,1,hombre casado,aval,1,bienes raíces,34,ninguno,propia,2,empleado calificado,1,sí,sí,1
+1M - 10M,12,crítico,coche (nuevo),1995,1M - 10M,0 - 1 año,4,hombre soltero,ninguno,1,otro,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,educación,1199,< 1M,4 - 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,67,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,12,pagado,radio/televisión,1331,< 1M,0 - 1 año,2,hombre soltero,ninguno,1,otro,22,tiendas,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,18,totalmente pagado,coche (nuevo),2278,1M - 10M,0 - 1 año,3,mujer,ninguno,3,otro,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,21,totalmente pagado,coche (nuevo),5003,desconocido,1 - 4 años,1,mujer,ninguno,4,sociedad de ahorros y préstamos,29,banco,propia,2,empleado calificado,1,sí,sí,1
+< 1M,24,totalmente pagado en este banco,muebles,3552,< 1M,4 - 7 años,3,hombre soltero,ninguno,4,otro,27,banco,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,18,crítico,muebles,1928,< 1M,0 - 1 año,2,hombre soltero,ninguno,2,bienes raíces,31,ninguno,propia,2,residente no calificado,1,ninguno,sí,1
+< 1M,24,pagado,coche (usado),2964,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,49,banco,gratuita,1,empleado calificado,2,sí,sí,0
+< 1M,24,totalmente pagado en este banco,radio/televisión,1546,< 1M,4 - 7 años,4,hombre soltero,aval,4,otro,24,banco,alquilada,1,residente no calificado,1,ninguno,sí,1
+> 10M,6,retrasado,radio/televisión,683,< 1M,0 - 1 año,2,mujer,ninguno,1,sociedad de ahorros y préstamos,29,banco,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,coche (nuevo),12389,desconocido,1 - 4 años,1,hombre soltero,ninguno,4,desconocido/nada,37,ninguno,gratuita,1,empleado calificado,1,sí,sí,1
+1M - 10M,24,retrasado,negocios,4712,desconocido,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,37,banco,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,24,retrasado,radio/televisión,1553,1M - 10M,4 - 7 años,3,mujer,ninguno,2,sociedad de ahorros y préstamos,23,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+< 1M,12,pagado,coche (nuevo),1372,< 1M,4 - 7 años,2,hombre divorciado,ninguno,3,otro,36,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,crítico,radio/televisión,2578,> 100M,> 7 años,2,hombre soltero,ninguno,2,otro,34,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,48,pagado,radio/televisión,3979,desconocido,4 - 7 años,4,hombre soltero,ninguno,1,otro,41,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,48,pagado,radio/televisión,6758,< 1M,1 - 4 años,3,mujer,ninguno,2,otro,31,ninguno,propia,1,empleado calificado,1,sí,sí,1
+< 1M,24,pagado,muebles,3234,< 1M,0 - 1 año,4,mujer,ninguno,4,bienes raíces,23,ninguno,alquilada,1,residente no calificado,1,sí,sí,1
+desconocido,30,crítico,radio/televisión,5954,< 1M,4 - 7 años,3,hombre soltero,co-solicitante,2,otro,38,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (usado),5433,desconocido,desempleado,2,mujer,ninguno,4,sociedad de ahorros y préstamos,26,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+< 1M,15,pagado,negocios,806,< 1M,1 - 4 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,22,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,radio/televisión,1082,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,27,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,15,crítico,muebles,2788,< 1M,4 - 7 años,2,mujer,co-solicitante,3,otro,24,banco,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,2930,< 1M,4 - 7 años,2,mujer,ninguno,1,bienes raíces,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,crítico,educación,1927,desconocido,1 - 4 años,3,mujer,ninguno,2,otro,33,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,36,crítico,coche (nuevo),2820,< 1M,0 - 1 año,4,hombre divorciado,ninguno,4,otro,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,24,pagado,reentrenamiento,937,< 1M,0 - 1 año,4,hombre casado,ninguno,3,otro,27,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,18,crítico,coche (nuevo),1056,< 1M,> 7 años,3,hombre soltero,aval,3,bienes raíces,30,banco,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,crítico,coche (nuevo),3124,< 1M,0 - 1 año,1,hombre soltero,ninguno,3,bienes raíces,49,banco,propia,2,residente no calificado,2,ninguno,sí,0
+desconocido,9,pagado,muebles,1388,< 1M,1 - 4 años,4,mujer,ninguno,2,bienes raíces,26,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,36,pagado,reparaciones,2384,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,desconocido/nada,33,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,1
+desconocido,12,pagado,coche (nuevo),2133,desconocido,> 7 años,4,mujer,ninguno,4,desconocido/nada,52,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+< 1M,18,pagado,muebles,2039,< 1M,1 - 4 años,1,mujer,ninguno,4,bienes raíces,20,banco,alquilada,1,empleado calificado,1,ninguno,sí,1
+< 1M,9,crítico,coche (nuevo),2799,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,36,ninguno,alquilada,2,empleado calificado,2,ninguno,sí,0
+< 1M,12,pagado,muebles,1289,< 1M,1 - 4 años,4,hombre soltero,aval,1,sociedad de ahorros y préstamos,21,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,18,pagado,electrodomésticos domésticos,1217,< 1M,1 - 4 años,4,hombre casado,ninguno,3,bienes raíces,47,ninguno,propia,1,residente no calificado,1,sí,sí,1
+< 1M,12,crítico,muebles,2246,< 1M,> 7 años,3,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,60,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+< 1M,12,crítico,radio/televisión,385,< 1M,4 - 7 años,4,mujer,ninguno,3,bienes raíces,58,ninguno,propia,4,residente no calificado,1,sí,sí,0
+1M - 10M,24,retrasado,coche (nuevo),1965,desconocido,1 - 4 años,4,mujer,ninguno,4,otro,42,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+desconocido,21,pagado,negocios,1572,> 100M,> 7 años,4,mujer,ninguno,4,bienes raíces,36,banco,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,coche (nuevo),2718,< 1M,1 - 4 años,3,mujer,ninguno,4,sociedad de ahorros y préstamos,20,ninguno,alquilada,1,residente no calificado,1,sí,sí,1
+< 1M,24,totalmente pagado en este banco,otros,1358,desconocido,> 7 años,4,hombre soltero,ninguno,3,otro,40,tiendas,propia,1,autónomo gerente,1,sí,sí,1
+1M - 10M,6,totalmente pagado en este banco,coche (nuevo),931,1M - 10M,0 - 1 año,1,mujer,ninguno,1,sociedad de ahorros y préstamos,32,tiendas,propia,1,residente no calificado,1,ninguno,sí,1
+< 1M,24,pagado,coche (nuevo),1442,< 1M,4 - 7 años,4,mujer,ninguno,4,otro,23,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,totalmente pagado,negocios,4241,< 1M,1 - 4 años,1,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,3,residente no calificado,1,sí,sí,1
+desconocido,18,crítico,coche (nuevo),2775,< 1M,4 - 7 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,31,banco,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,24,retrasado,negocios,3863,< 1M,1 - 4 años,1,hombre soltero,ninguno,2,desconocido/nada,32,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,7,pagado,radio/televisión,2329,< 1M,0 - 1 año,1,mujer,aval,1,bienes raíces,45,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,muebles,918,< 1M,1 - 4 años,4,mujer,ninguno,1,sociedad de ahorros y préstamos,30,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,totalmente pagado en este banco,educación,1837,< 1M,4 - 7 años,4,mujer,ninguno,4,desconocido/nada,34,banco,gratuita,1,residente no calificado,1,ninguno,sí,1
+desconocido,36,pagado,muebles,3349,< 1M,1 - 4 años,4,mujer,ninguno,2,otro,28,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+> 10M,10,pagado,muebles,1275,< 1M,0 - 1 año,4,mujer,ninguno,2,sociedad de ahorros y préstamos,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,totalmente pagado en este banco,muebles,2828,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,22,tiendas,propia,1,empleado calificado,1,sí,sí,0
+desconocido,24,crítico,negocios,4526,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,74,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,36,pagado,radio/televisión,2671,1M - 10M,1 - 4 años,4,mujer,co-solicitante,4,desconocido/nada,50,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+desconocido,18,pagado,radio/televisión,2051,< 1M,0 - 1 año,4,hombre soltero,ninguno,1,bienes raíces,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,15,pagado,coche (usado),1300,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,45,banco,gratuita,1,empleado calificado,2,ninguno,sí,0
+< 1M,12,pagado,electrodomésticos domésticos,741,1M - 10M,desempleado,4,mujer,ninguno,3,sociedad de ahorros y préstamos,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+> 10M,10,pagado,coche (nuevo),1240,1M - 10M,> 7 años,1,mujer,ninguno,4,desconocido/nada,48,ninguno,gratuita,1,residente no calificado,2,ninguno,sí,1
+< 1M,21,pagado,radio/televisión,3357,> 100M,0 - 1 año,4,mujer,ninguno,2,otro,29,banco,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,totalmente pagado en este banco,coche (usado),3632,< 1M,1 - 4 años,1,mujer,aval,4,otro,22,banco,alquilada,1,empleado calificado,1,ninguno,no,0
+desconocido,18,retrasado,muebles,1808,< 1M,4 - 7 años,4,mujer,ninguno,1,bienes raíces,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,48,totalmente pagado,negocios,12204,desconocido,1 - 4 años,2,hombre soltero,ninguno,2,otro,48,banco,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,60,retrasado,radio/televisión,9157,desconocido,1 - 4 años,2,hombre soltero,ninguno,2,desconocido/nada,27,ninguno,gratuita,1,autónomo gerente,1,ninguno,sí,0
+< 1M,6,crítico,coche (nuevo),3676,< 1M,1 - 4 años,1,hombre soltero,ninguno,3,bienes raíces,37,ninguno,alquilada,3,empleado calificado,2,ninguno,sí,0
+1M - 10M,30,pagado,muebles,3441,1M - 10M,1 - 4 años,2,mujer,co-solicitante,4,otro,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,12,pagado,coche (nuevo),640,< 1M,1 - 4 años,4,hombre divorciado,ninguno,2,bienes raíces,49,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,21,crítico,negocios,3652,< 1M,4 - 7 años,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,coche (nuevo),1530,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,32,banco,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,48,pagado,negocios,3914,desconocido,1 - 4 años,4,hombre divorciado,ninguno,2,bienes raíces,38,banco,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,12,pagado,muebles,1858,< 1M,0 - 1 año,4,mujer,ninguno,1,otro,22,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,2600,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,65,ninguno,gratuita,2,empleado calificado,1,ninguno,sí,1
+desconocido,15,pagado,radio/televisión,1979,desconocido,> 7 años,4,hombre soltero,ninguno,2,otro,35,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+> 10M,6,pagado,muebles,2116,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,41,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,9,totalmente pagado en este banco,coche (nuevo),1437,1M - 10M,4 - 7 años,2,hombre soltero,ninguno,3,desconocido/nada,29,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,42,crítico,muebles,4042,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,9,pagado,educación,3832,desconocido,> 7 años,1,hombre soltero,ninguno,4,bienes raíces,64,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,24,pagado,radio/televisión,3660,< 1M,1 - 4 años,2,mujer,ninguno,4,otro,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,totalmente pagado en este banco,muebles,1553,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,otro,44,banco,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,15,pagado,radio/televisión,1444,desconocido,0 - 1 año,4,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,9,pagado,muebles,1980,< 1M,0 - 1 año,2,mujer,co-solicitante,2,otro,19,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,pagado,coche (nuevo),1355,< 1M,0 - 1 año,3,mujer,ninguno,4,otro,25,ninguno,propia,1,residente no calificado,1,sí,sí,1
+desconocido,12,pagado,educación,1393,< 1M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,47,banco,propia,3,empleado calificado,2,sí,sí,0
+desconocido,24,pagado,radio/televisión,1376,10M - 100M,4 - 7 años,4,mujer,ninguno,1,otro,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,60,retrasado,radio/televisión,15653,< 1M,4 - 7 años,2,hombre soltero,ninguno,4,otro,21,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,radio/televisión,1493,< 1M,0 - 1 año,4,mujer,ninguno,3,otro,34,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,42,retrasado,radio/televisión,4370,< 1M,4 - 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,26,banco,propia,2,empleado calificado,2,sí,sí,1
+< 1M,18,pagado,educación,750,< 1M,desempleado,4,mujer,ninguno,1,bienes raíces,27,ninguno,propia,1,desempleado no residente,1,ninguno,sí,1
+1M - 10M,15,pagado,reparaciones,1308,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,38,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,15,pagado,educación,4623,1M - 10M,1 - 4 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,40,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,24,crítico,radio/televisión,1851,< 1M,4 - 7 años,4,hombre casado,aval,2,otro,33,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,18,crítico,radio/televisión,1880,< 1M,4 - 7 años,4,hombre casado,ninguno,1,sociedad de ahorros y préstamos,32,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+desconocido,36,retrasado,negocios,7980,desconocido,0 - 1 año,4,hombre soltero,ninguno,4,otro,27,ninguno,alquilada,2,empleado calificado,1,sí,sí,1
+< 1M,30,totalmente pagado,muebles,4583,< 1M,1 - 4 años,2,hombre divorciado,aval,2,bienes raíces,32,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,pagado,coche (nuevo),1386,10M - 100M,1 - 4 años,2,mujer,ninguno,2,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+> 10M,24,pagado,coche (nuevo),947,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,desconocido/nada,38,banco,gratuita,1,empleado calificado,2,ninguno,sí,1
+< 1M,12,pagado,educación,684,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,otro,40,ninguno,alquilada,1,residente no calificado,2,ninguno,sí,1
+< 1M,48,pagado,educación,7476,< 1M,4 - 7 años,4,hombre soltero,ninguno,1,desconocido/nada,50,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,12,pagado,muebles,1922,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,37,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+< 1M,24,pagado,coche (nuevo),2303,< 1M,> 7 años,4,hombre soltero,co-solicitante,1,bienes raíces,45,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,36,retrasado,coche (nuevo),8086,1M - 10M,> 7 años,2,hombre soltero,ninguno,4,otro,42,ninguno,propia,4,autónomo gerente,1,sí,sí,1
+desconocido,24,crítico,coche (usado),2346,< 1M,4 - 7 años,4,hombre soltero,ninguno,3,otro,35,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,14,pagado,coche (nuevo),3973,< 1M,desempleado,1,hombre soltero,ninguno,4,desconocido/nada,22,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (nuevo),888,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,41,banco,propia,1,residente no calificado,2,ninguno,sí,1
+desconocido,48,pagado,radio/televisión,10222,desconocido,4 - 7 años,4,hombre soltero,ninguno,3,otro,37,tiendas,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,30,totalmente pagado,negocios,4221,< 1M,1 - 4 años,2,mujer,ninguno,1,otro,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,crítico,muebles,6361,< 1M,> 7 años,2,hombre soltero,ninguno,1,desconocido/nada,41,ninguno,propia,1,empleado calificado,1,sí,sí,0
+> 10M,12,pagado,radio/televisión,1297,< 1M,1 - 4 años,3,hombre casado,ninguno,4,bienes raíces,23,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,coche (nuevo),900,desconocido,1 - 4 años,4,hombre casado,ninguno,2,otro,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,21,pagado,muebles,2241,< 1M,> 7 años,4,hombre soltero,ninguno,2,bienes raíces,50,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,6,retrasado,muebles,1050,< 1M,desempleado,4,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,35,tiendas,propia,2,autónomo gerente,1,sí,sí,0
+> 10M,6,crítico,educación,1047,< 1M,1 - 4 años,2,mujer,ninguno,4,sociedad de ahorros y préstamos,50,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,24,crítico,otros,6314,< 1M,desempleado,4,hombre soltero,co-solicitante,2,desconocido/nada,27,banco,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,30,totalmente pagado en este banco,muebles,3496,> 100M,1 - 4 años,4,hombre soltero,ninguno,2,otro,34,tiendas,propia,1,empleado calificado,2,sí,sí,0
+desconocido,48,totalmente pagado en este banco,negocios,3609,< 1M,1 - 4 años,1,mujer,ninguno,1,bienes raíces,27,tiendas,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,crítico,coche (nuevo),4843,< 1M,> 7 años,3,hombre soltero,co-solicitante,4,sociedad de ahorros y préstamos,43,ninguno,alquilada,2,empleado calificado,1,sí,sí,1
+> 10M,30,crítico,radio/televisión,3017,< 1M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,47,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,crítico,negocios,4139,1M - 10M,1 - 4 años,3,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,27,ninguno,propia,2,residente no calificado,1,sí,sí,0
+desconocido,36,pagado,negocios,5742,1M - 10M,4 - 7 años,2,hombre soltero,ninguno,2,otro,31,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,60,pagado,coche (nuevo),10366,< 1M,> 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,42,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,6,crítico,coche (nuevo),2080,10M - 100M,1 - 4 años,1,hombre casado,ninguno,2,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,21,retrasado,negocios,2580,10M - 100M,0 - 1 año,4,hombre soltero,ninguno,2,bienes raíces,41,banco,propia,1,residente no calificado,2,ninguno,sí,1
+desconocido,30,crítico,radio/televisión,4530,< 1M,4 - 7 años,4,mujer,ninguno,4,otro,26,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,24,crítico,muebles,5150,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,33,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,72,pagado,radio/televisión,5595,1M - 10M,1 - 4 años,2,hombre casado,ninguno,2,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,24,pagado,radio/televisión,2384,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,64,banco,alquilada,1,residente no calificado,1,ninguno,sí,0
+desconocido,18,pagado,radio/televisión,1453,< 1M,0 - 1 año,3,mujer,ninguno,1,bienes raíces,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,pagado,educación,1538,< 1M,0 - 1 año,1,mujer,ninguno,2,desconocido/nada,56,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,12,pagado,radio/televisión,2279,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,37,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+desconocido,15,retrasado,radio/televisión,1478,< 1M,1 - 4 años,4,hombre casado,ninguno,3,bienes raíces,33,banco,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,crítico,radio/televisión,5103,< 1M,0 - 1 año,3,hombre casado,ninguno,3,desconocido/nada,47,ninguno,gratuita,3,empleado calificado,1,sí,sí,0
+1M - 10M,36,retrasado,negocios,9857,1M - 10M,4 - 7 años,1,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,31,ninguno,propia,2,residente no calificado,2,sí,sí,0
+desconocido,60,pagado,coche (nuevo),6527,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,34,ninguno,gratuita,1,empleado calificado,2,sí,sí,0
+> 10M,10,crítico,radio/televisión,1347,desconocido,4 - 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,36,retrasado,coche (nuevo),2862,1M - 10M,> 7 años,4,hombre soltero,ninguno,3,desconocido/nada,30,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+desconocido,9,pagado,radio/televisión,2753,1M - 10M,> 7 años,3,hombre soltero,co-solicitante,4,otro,35,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,12,pagado,coche (nuevo),3651,> 100M,1 - 4 años,1,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,31,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,15,crítico,muebles,975,< 1M,1 - 4 años,2,hombre divorciado,ninguno,3,sociedad de ahorros y préstamos,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,15,pagado,reparaciones,2631,1M - 10M,1 - 4 años,3,mujer,ninguno,2,bienes raíces,25,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,24,pagado,radio/televisión,2896,1M - 10M,0 - 1 año,2,hombre soltero,ninguno,1,otro,29,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,crítico,coche (nuevo),4716,desconocido,0 - 1 año,1,hombre soltero,ninguno,3,bienes raíces,44,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+desconocido,24,pagado,radio/televisión,2284,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,otro,28,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,6,pagado,coche (usado),1236,10M - 100M,1 - 4 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,50,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,radio/televisión,1103,< 1M,4 - 7 años,4,hombre soltero,aval,3,bienes raíces,29,ninguno,propia,2,empleado calificado,1,ninguno,no,0
+desconocido,12,crítico,coche (nuevo),926,< 1M,desempleado,1,mujer,ninguno,2,sociedad de ahorros y préstamos,38,ninguno,propia,1,desempleado no residente,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,1800,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,otro,24,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+> 10M,15,pagado,educación,1905,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,40,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,muebles,1123,10M - 100M,1 - 4 años,4,mujer,ninguno,4,otro,29,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,1
+< 1M,48,crítico,coche (usado),6331,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,46,ninguno,gratuita,2,empleado calificado,1,sí,sí,1
+> 10M,24,pagado,radio/televisión,1377,1M - 10M,> 7 años,4,mujer,ninguno,2,desconocido/nada,47,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+1M - 10M,30,retrasado,negocios,2503,1M - 10M,> 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,41,tiendas,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,27,pagado,negocios,2528,< 1M,0 - 1 año,4,mujer,ninguno,1,sociedad de ahorros y préstamos,32,ninguno,propia,1,empleado calificado,2,sí,sí,0
+desconocido,15,pagado,coche (nuevo),5324,10M - 100M,> 7 años,1,mujer,ninguno,4,desconocido/nada,35,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,48,pagado,coche (nuevo),6560,1M - 10M,4 - 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,totalmente pagado,muebles,2969,< 1M,0 - 1 año,4,mujer,ninguno,3,sociedad de ahorros y préstamos,25,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,9,pagado,radio/televisión,1206,< 1M,> 7 años,4,mujer,ninguno,4,bienes raíces,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,radio/televisión,2118,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,37,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,629,10M - 100M,> 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,32,banco,propia,2,autónomo gerente,1,sí,sí,0
+< 1M,6,totalmente pagado en este banco,educación,1198,< 1M,> 7 años,4,mujer,ninguno,4,desconocido/nada,35,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+desconocido,21,pagado,coche (usado),2476,desconocido,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,46,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,9,crítico,radio/televisión,1138,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,25,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,60,pagado,coche (nuevo),14027,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,desconocido/nada,27,ninguno,propia,1,autónomo gerente,1,sí,sí,1
+desconocido,30,crítico,coche (usado),7596,desconocido,> 7 años,1,hombre soltero,ninguno,4,otro,63,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,30,crítico,radio/televisión,3077,desconocido,> 7 años,3,hombre soltero,ninguno,2,otro,40,ninguno,propia,2,empleado calificado,2,sí,sí,0
+desconocido,18,pagado,radio/televisión,1505,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,desconocido/nada,32,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+> 10M,24,crítico,radio/televisión,3148,desconocido,1 - 4 años,3,hombre soltero,ninguno,2,otro,31,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,20,totalmente pagado,coche (usado),6148,1M - 10M,> 7 años,3,hombre casado,ninguno,4,otro,31,banco,propia,2,empleado calificado,1,sí,sí,0
+> 10M,9,totalmente pagado,radio/televisión,1337,< 1M,0 - 1 año,4,hombre soltero,ninguno,2,otro,34,ninguno,propia,2,autónomo gerente,1,sí,sí,1
+1M - 10M,6,totalmente pagado en este banco,educación,433,> 100M,0 - 1 año,4,mujer,ninguno,2,sociedad de ahorros y préstamos,24,banco,alquilada,1,empleado calificado,2,ninguno,sí,1
+< 1M,12,pagado,coche (nuevo),1228,< 1M,1 - 4 años,4,mujer,ninguno,2,bienes raíces,24,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,9,pagado,radio/televisión,790,10M - 100M,1 - 4 años,4,mujer,ninguno,3,bienes raíces,66,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,27,pagado,coche (nuevo),2570,< 1M,1 - 4 años,3,mujer,ninguno,3,bienes raíces,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,6,crítico,coche (nuevo),250,> 100M,1 - 4 años,2,mujer,ninguno,2,bienes raíces,41,banco,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,15,crítico,radio/televisión,1316,10M - 100M,1 - 4 años,2,hombre casado,ninguno,2,sociedad de ahorros y préstamos,47,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,1882,< 1M,1 - 4 años,4,mujer,ninguno,4,otro,25,banco,alquilada,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,48,totalmente pagado en este banco,negocios,6416,< 1M,> 7 años,4,mujer,ninguno,3,desconocido/nada,59,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+> 10M,24,crítico,negocios,1275,> 100M,1 - 4 años,2,hombre divorciado,ninguno,4,bienes raíces,36,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,24,retrasado,radio/televisión,6403,< 1M,0 - 1 año,1,hombre soltero,ninguno,2,otro,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,radio/televisión,1987,< 1M,1 - 4 años,2,hombre soltero,ninguno,4,bienes raíces,21,ninguno,alquilada,1,residente no calificado,2,ninguno,sí,1
+1M - 10M,8,pagado,radio/televisión,760,< 1M,4 - 7 años,4,mujer,aval,2,bienes raíces,44,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (usado),2603,> 100M,1 - 4 años,2,mujer,ninguno,4,otro,28,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,4,crítico,coche (nuevo),3380,< 1M,4 - 7 años,1,mujer,ninguno,1,bienes raíces,37,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+1M - 10M,36,totalmente pagado en este banco,electrodomésticos domésticos,3990,desconocido,0 - 1 año,3,mujer,ninguno,2,desconocido/nada,29,banco,propia,1,desempleado no residente,1,ninguno,sí,0
+1M - 10M,24,pagado,coche (usado),11560,< 1M,1 - 4 años,1,mujer,ninguno,4,otro,23,ninguno,alquilada,2,autónomo gerente,1,ninguno,sí,1
+< 1M,18,pagado,coche (nuevo),4380,1M - 10M,1 - 4 años,3,hombre soltero,ninguno,4,otro,35,ninguno,propia,1,residente no calificado,2,sí,sí,0
+desconocido,6,crítico,coche (nuevo),6761,< 1M,4 - 7 años,1,hombre soltero,ninguno,3,desconocido/nada,45,ninguno,propia,2,autónomo gerente,2,sí,sí,0
+1M - 10M,30,totalmente pagado,negocios,4280,1M - 10M,1 - 4 años,4,mujer,ninguno,4,otro,26,ninguno,alquilada,2,residente no calificado,1,ninguno,sí,1
+< 1M,24,totalmente pagado en este banco,coche (nuevo),2325,1M - 10M,4 - 7 años,2,hombre soltero,ninguno,3,otro,32,banco,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,10,totalmente pagado en este banco,radio/televisión,1048,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,23,tiendas,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,21,pagado,radio/televisión,3160,desconocido,> 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,41,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,totalmente pagado en este banco,muebles,2483,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,4,bienes raíces,22,tiendas,propia,1,empleado calificado,1,sí,sí,0
+< 1M,39,crítico,muebles,14179,desconocido,4 - 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,30,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+< 1M,13,crítico,negocios,1797,< 1M,0 - 1 año,3,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,28,banco,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,15,pagado,coche (nuevo),2511,< 1M,desempleado,1,mujer,ninguno,4,otro,23,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,coche (nuevo),1274,< 1M,0 - 1 año,3,mujer,ninguno,1,bienes raíces,37,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,21,pagado,coche (usado),5248,desconocido,1 - 4 años,1,hombre soltero,ninguno,3,otro,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,15,pagado,coche (usado),3029,< 1M,4 - 7 años,2,hombre soltero,ninguno,2,otro,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,6,pagado,muebles,428,< 1M,> 7 años,2,mujer,ninguno,1,sociedad de ahorros y préstamos,49,banco,propia,1,empleado calificado,1,sí,sí,0
+< 1M,18,pagado,coche (nuevo),976,< 1M,0 - 1 año,1,mujer,ninguno,2,otro,23,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,12,pagado,negocios,841,1M - 10M,4 - 7 años,2,mujer,ninguno,4,bienes raíces,23,ninguno,alquilada,1,residente no calificado,1,ninguno,sí,0
+desconocido,30,crítico,radio/televisión,5771,< 1M,4 - 7 años,4,mujer,ninguno,2,otro,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,retrasado,reparaciones,1555,> 100M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,55,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,1
+< 1M,24,pagado,coche (nuevo),1285,desconocido,4 - 7 años,4,mujer,ninguno,4,desconocido/nada,32,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+> 10M,6,crítico,coche (nuevo),1299,< 1M,1 - 4 años,1,hombre soltero,ninguno,1,bienes raíces,74,ninguno,propia,3,desempleado no residente,2,ninguno,no,0
+> 10M,15,crítico,radio/televisión,1271,desconocido,1 - 4 años,3,hombre soltero,ninguno,4,desconocido/nada,39,ninguno,gratuita,2,empleado calificado,1,sí,sí,1
+desconocido,24,pagado,coche (nuevo),1393,< 1M,1 - 4 años,2,hombre soltero,aval,2,bienes raíces,31,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,12,crítico,coche (nuevo),691,< 1M,> 7 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,35,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,15,crítico,coche (nuevo),5045,desconocido,> 7 años,1,mujer,ninguno,4,otro,59,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,18,crítico,muebles,2124,< 1M,1 - 4 años,4,mujer,ninguno,4,bienes raíces,24,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+< 1M,12,pagado,radio/televisión,2214,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,24,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,21,crítico,coche (nuevo),12680,desconocido,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,30,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,24,crítico,coche (nuevo),2463,1M - 10M,4 - 7 años,4,hombre casado,ninguno,3,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,12,pagado,radio/televisión,1155,< 1M,> 7 años,3,hombre casado,aval,3,bienes raíces,40,banco,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,30,pagado,muebles,3108,< 1M,0 - 1 año,2,hombre divorciado,ninguno,4,sociedad de ahorros y préstamos,31,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+desconocido,10,pagado,coche (usado),2901,desconocido,0 - 1 año,1,mujer,ninguno,4,bienes raíces,31,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,crítico,muebles,3617,< 1M,> 7 años,1,hombre soltero,ninguno,4,otro,28,ninguno,alquilada,3,empleado calificado,1,sí,sí,0
+desconocido,12,crítico,radio/televisión,1655,< 1M,> 7 años,2,hombre soltero,ninguno,4,bienes raíces,63,ninguno,propia,2,residente no calificado,1,sí,sí,0
+< 1M,24,pagado,coche (usado),2812,desconocido,> 7 años,2,mujer,ninguno,4,bienes raíces,26,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,36,crítico,educación,8065,< 1M,1 - 4 años,3,mujer,ninguno,2,desconocido/nada,25,ninguno,propia,2,autónomo gerente,1,sí,sí,1
+desconocido,21,crítico,coche (usado),3275,< 1M,> 7 años,1,hombre soltero,ninguno,4,otro,36,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,24,crítico,radio/televisión,2223,1M - 10M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,52,banco,propia,2,empleado calificado,1,ninguno,sí,0
+> 10M,12,crítico,coche (nuevo),1480,10M - 100M,desempleado,2,hombre soltero,ninguno,4,desconocido/nada,66,banco,gratuita,3,desempleado no residente,1,ninguno,sí,0
+< 1M,24,pagado,coche (nuevo),1371,desconocido,1 - 4 años,4,mujer,ninguno,4,bienes raíces,25,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,36,crítico,coche (nuevo),3535,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,otro,37,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,18,pagado,radio/televisión,3509,< 1M,4 - 7 años,4,mujer,aval,1,bienes raíces,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,crítico,coche (usado),5711,> 100M,> 7 años,4,hombre soltero,ninguno,2,otro,38,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+1M - 10M,18,pagado,reparaciones,3872,< 1M,desempleado,2,mujer,ninguno,4,otro,67,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,39,crítico,radio/televisión,4933,< 1M,4 - 7 años,2,hombre soltero,aval,2,bienes raíces,25,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,24,crítico,coche (nuevo),1940,> 100M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,60,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,12,totalmente pagado,reentrenamiento,1410,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,31,ninguno,propia,1,residente no calificado,1,sí,sí,0
+1M - 10M,12,pagado,coche (nuevo),836,1M - 10M,0 - 1 año,4,mujer,ninguno,2,sociedad de ahorros y préstamos,23,banco,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,20,pagado,coche (usado),6468,desconocido,desempleado,1,hombre divorciado,ninguno,4,bienes raíces,60,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+1M - 10M,18,pagado,negocios,1941,> 100M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,35,ninguno,propia,1,residente no calificado,1,sí,sí,0
+desconocido,22,pagado,radio/televisión,2675,10M - 100M,> 7 años,3,hombre soltero,ninguno,4,otro,40,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,48,crítico,coche (usado),2751,desconocido,> 7 años,4,hombre soltero,ninguno,3,otro,38,ninguno,propia,2,empleado calificado,2,sí,sí,0
+1M - 10M,48,retrasado,educación,6224,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,50,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+< 1M,40,crítico,educación,5998,< 1M,1 - 4 años,4,hombre soltero,ninguno,3,desconocido/nada,27,banco,propia,1,empleado calificado,1,sí,sí,1
+1M - 10M,21,pagado,negocios,1188,< 1M,> 7 años,2,mujer,ninguno,4,sociedad de ahorros y préstamos,39,ninguno,propia,1,empleado calificado,2,ninguno,sí,1
+desconocido,24,pagado,coche (usado),6313,desconocido,> 7 años,3,hombre soltero,ninguno,4,otro,41,ninguno,propia,1,autónomo gerente,2,sí,sí,0
+desconocido,6,crítico,muebles,1221,desconocido,1 - 4 años,1,hombre casado,ninguno,2,sociedad de ahorros y préstamos,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+> 10M,24,pagado,muebles,2892,< 1M,> 7 años,3,hombre divorciado,ninguno,4,desconocido/nada,51,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,muebles,3062,10M - 100M,> 7 años,4,hombre soltero,ninguno,3,desconocido/nada,32,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,9,pagado,muebles,2301,1M - 10M,0 - 1 año,2,mujer,ninguno,4,sociedad de ahorros y préstamos,22,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,coche (usado),7511,desconocido,> 7 años,1,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,51,ninguno,gratuita,1,empleado calificado,2,sí,sí,1
+desconocido,12,crítico,muebles,1258,< 1M,0 - 1 año,2,mujer,ninguno,4,sociedad de ahorros y préstamos,22,ninguno,alquilada,2,residente no calificado,1,ninguno,sí,0
+desconocido,24,retrasado,coche (nuevo),717,desconocido,> 7 años,4,hombre casado,ninguno,4,otro,54,ninguno,propia,2,empleado calificado,1,sí,sí,0
+1M - 10M,9,pagado,coche (nuevo),1549,desconocido,0 - 1 año,4,hombre soltero,ninguno,2,bienes raíces,35,ninguno,propia,1,desempleado no residente,1,ninguno,sí,0
+desconocido,24,crítico,educación,1597,< 1M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,54,ninguno,gratuita,2,empleado calificado,2,ninguno,sí,0
+1M - 10M,18,crítico,radio/televisión,1795,< 1M,> 7 años,3,mujer,aval,4,bienes raíces,48,banco,alquilada,2,residente no calificado,1,sí,sí,0
+< 1M,20,crítico,muebles,4272,< 1M,> 7 años,1,mujer,ninguno,4,sociedad de ahorros y préstamos,24,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,radio/televisión,976,desconocido,> 7 años,4,hombre soltero,ninguno,4,otro,35,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,12,pagado,coche (nuevo),7472,desconocido,desempleado,1,mujer,ninguno,2,bienes raíces,24,ninguno,alquilada,1,desempleado no residente,1,ninguno,sí,0
+< 1M,36,pagado,coche (nuevo),9271,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,otro,24,ninguno,propia,1,empleado calificado,1,sí,sí,1
+1M - 10M,6,pagado,radio/televisión,590,< 1M,0 - 1 año,3,hombre casado,ninguno,3,bienes raíces,26,ninguno,propia,1,residente no calificado,1,ninguno,no,0
+desconocido,12,crítico,radio/televisión,930,desconocido,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,65,ninguno,propia,4,empleado calificado,1,ninguno,sí,0
+1M - 10M,42,totalmente pagado en este banco,coche (usado),9283,< 1M,desempleado,1,hombre soltero,ninguno,2,desconocido/nada,55,banco,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,15,totalmente pagado,coche (nuevo),1778,< 1M,0 - 1 año,2,mujer,ninguno,1,bienes raíces,26,ninguno,alquilada,2,desempleado no residente,1,ninguno,sí,1
+1M - 10M,8,pagado,negocios,907,< 1M,0 - 1 año,3,hombre casado,ninguno,2,bienes raíces,26,ninguno,propia,1,empleado calificado,1,sí,sí,0
+1M - 10M,6,pagado,radio/televisión,484,< 1M,4 - 7 años,3,hombre casado,aval,3,bienes raíces,28,banco,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,36,crítico,coche (usado),9629,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,otro,24,ninguno,propia,2,empleado calificado,1,sí,sí,1
+< 1M,48,pagado,electrodomésticos domésticos,3051,< 1M,1 - 4 años,3,hombre soltero,ninguno,4,otro,54,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,48,pagado,coche (nuevo),3931,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,desconocido/nada,46,ninguno,gratuita,1,empleado calificado,2,ninguno,sí,1
+1M - 10M,36,retrasado,coche (nuevo),7432,< 1M,1 - 4 años,2,mujer,ninguno,2,sociedad de ahorros y préstamos,54,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,pagado,electrodomésticos domésticos,1338,10M - 100M,1 - 4 años,1,hombre divorciado,ninguno,4,bienes raíces,62,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,crítico,radio/televisión,1554,< 1M,4 - 7 años,1,mujer,ninguno,2,otro,24,ninguno,alquilada,2,empleado calificado,1,sí,sí,0
+< 1M,36,pagado,otros,15857,< 1M,desempleado,2,hombre divorciado,co-solicitante,3,otro,43,ninguno,propia,1,autónomo gerente,1,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,1345,< 1M,1 - 4 años,4,hombre casado,ninguno,3,bienes raíces,26,banco,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,12,pagado,coche (nuevo),1101,< 1M,1 - 4 años,3,hombre casado,ninguno,2,bienes raíces,27,ninguno,propia,2,empleado calificado,1,sí,sí,0
+> 10M,12,pagado,radio/televisión,3016,< 1M,1 - 4 años,3,hombre casado,ninguno,1,otro,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,36,pagado,muebles,2712,< 1M,> 7 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,41,banco,propia,1,empleado calificado,2,ninguno,sí,1
+< 1M,8,crítico,coche (nuevo),731,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,47,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,18,crítico,muebles,3780,< 1M,0 - 1 año,3,hombre divorciado,ninguno,2,otro,35,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+< 1M,21,crítico,coche (nuevo),1602,< 1M,> 7 años,4,hombre casado,ninguno,3,otro,30,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,18,crítico,coche (nuevo),3966,< 1M,> 7 años,1,mujer,ninguno,4,bienes raíces,33,banco,alquilada,3,empleado calificado,1,sí,sí,1
+desconocido,18,totalmente pagado,negocios,4165,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,36,tiendas,propia,2,empleado calificado,2,ninguno,sí,1
+< 1M,36,pagado,coche (usado),8335,desconocido,> 7 años,3,hombre soltero,ninguno,4,desconocido/nada,47,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,48,retrasado,negocios,6681,desconocido,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,38,ninguno,gratuita,1,empleado calificado,2,sí,sí,0
+desconocido,24,retrasado,negocios,2375,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,2,otro,44,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,18,pagado,coche (nuevo),1216,< 1M,0 - 1 año,4,mujer,ninguno,3,otro,23,ninguno,alquilada,1,empleado calificado,1,sí,sí,1
+< 1M,45,totalmente pagado,negocios,11816,< 1M,> 7 años,2,hombre soltero,ninguno,4,otro,29,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,pagado,radio/televisión,5084,desconocido,> 7 años,2,mujer,ninguno,4,otro,42,ninguno,propia,1,empleado calificado,1,sí,sí,0
+> 10M,15,pagado,radio/televisión,2327,< 1M,0 - 1 año,2,mujer,ninguno,3,bienes raíces,25,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+< 1M,12,totalmente pagado,coche (nuevo),1082,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,otro,48,banco,propia,2,empleado calificado,1,ninguno,sí,1
+desconocido,12,pagado,radio/televisión,886,desconocido,1 - 4 años,4,mujer,ninguno,2,otro,21,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,4,pagado,muebles,601,< 1M,0 - 1 año,1,mujer,ninguno,3,bienes raíces,23,ninguno,alquilada,1,residente no calificado,2,ninguno,sí,0
+< 1M,24,crítico,coche (usado),2957,< 1M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,63,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,24,crítico,radio/televisión,2611,< 1M,> 7 años,4,hombre casado,co-solicitante,3,bienes raíces,46,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,36,pagado,muebles,5179,< 1M,4 - 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,29,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,21,retrasado,coche (usado),2993,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,28,tiendas,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,18,pagado,reparaciones,1943,< 1M,0 - 1 año,4,mujer,ninguno,4,bienes raíces,23,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,totalmente pagado en este banco,negocios,1559,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,otro,50,banco,propia,1,empleado calificado,1,sí,sí,0
+desconocido,18,pagado,muebles,3422,< 1M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,47,banco,propia,3,empleado calificado,2,sí,sí,0
+1M - 10M,21,pagado,muebles,3976,desconocido,4 - 7 años,2,hombre soltero,ninguno,3,otro,35,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,18,pagado,coche (nuevo),6761,desconocido,1 - 4 años,2,hombre soltero,ninguno,4,otro,68,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,1
+desconocido,24,pagado,coche (nuevo),1249,< 1M,0 - 1 año,4,hombre casado,ninguno,2,bienes raíces,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,9,pagado,radio/televisión,1364,< 1M,4 - 7 años,3,hombre soltero,ninguno,4,bienes raíces,59,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,radio/televisión,709,< 1M,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,57,tiendas,propia,1,residente no calificado,1,ninguno,sí,1
+< 1M,20,crítico,coche (nuevo),2235,< 1M,1 - 4 años,4,hombre casado,aval,2,sociedad de ahorros y préstamos,33,banco,alquilada,2,empleado calificado,1,ninguno,no,1
+desconocido,24,crítico,coche (usado),4042,desconocido,4 - 7 años,3,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,43,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,15,crítico,radio/televisión,1471,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,35,ninguno,gratuita,2,empleado calificado,1,sí,sí,0
+< 1M,18,totalmente pagado en este banco,coche (nuevo),1442,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,desconocido/nada,32,ninguno,gratuita,2,residente no calificado,2,ninguno,sí,1
+desconocido,36,retrasado,coche (nuevo),10875,< 1M,> 7 años,2,hombre soltero,ninguno,2,otro,45,ninguno,propia,2,empleado calificado,2,sí,sí,0
+desconocido,24,pagado,coche (nuevo),1474,1M - 10M,0 - 1 año,4,hombre casado,ninguno,3,bienes raíces,33,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,10,pagado,reentrenamiento,894,desconocido,4 - 7 años,4,mujer,ninguno,3,sociedad de ahorros y préstamos,40,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,15,crítico,muebles,3343,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,desconocido/nada,28,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+< 1M,15,pagado,coche (nuevo),3959,< 1M,1 - 4 años,3,mujer,ninguno,2,sociedad de ahorros y préstamos,29,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,9,pagado,coche (nuevo),3577,1M - 10M,1 - 4 años,1,hombre soltero,aval,2,bienes raíces,26,ninguno,alquilada,1,empleado calificado,2,ninguno,no,0
+desconocido,24,crítico,coche (usado),5804,> 100M,1 - 4 años,4,hombre soltero,ninguno,2,bienes raíces,27,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,retrasado,negocios,2169,< 1M,1 - 4 años,4,hombre casado,ninguno,2,otro,28,ninguno,propia,1,empleado calificado,1,sí,sí,1
+< 1M,24,pagado,radio/televisión,2439,< 1M,0 - 1 año,4,mujer,ninguno,4,bienes raíces,35,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,27,crítico,muebles,4526,> 100M,0 - 1 año,4,hombre soltero,ninguno,2,bienes raíces,32,tiendas,propia,2,residente no calificado,2,sí,sí,0
+desconocido,10,pagado,muebles,2210,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,25,banco,alquilada,1,residente no calificado,1,ninguno,sí,1
+desconocido,15,pagado,muebles,2221,10M - 100M,1 - 4 años,2,mujer,ninguno,4,otro,20,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,2389,< 1M,0 - 1 año,4,mujer,ninguno,1,otro,27,tiendas,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,muebles,3331,< 1M,> 7 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,42,tiendas,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,pagado,negocios,7409,desconocido,> 7 años,3,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,37,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,muebles,652,< 1M,> 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,24,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+desconocido,36,retrasado,muebles,7678,10M - 100M,4 - 7 años,2,mujer,ninguno,4,otro,40,ninguno,propia,2,empleado calificado,1,sí,sí,0
+> 10M,6,crítico,coche (nuevo),1343,< 1M,> 7 años,1,hombre soltero,ninguno,4,bienes raíces,46,ninguno,propia,2,empleado calificado,2,ninguno,no,0
+< 1M,24,crítico,negocios,1382,1M - 10M,4 - 7 años,4,hombre soltero,ninguno,1,bienes raíces,26,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,15,pagado,electrodomésticos domésticos,874,desconocido,0 - 1 año,4,mujer,ninguno,1,bienes raíces,24,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,12,pagado,muebles,3590,< 1M,1 - 4 años,2,hombre soltero,co-solicitante,2,sociedad de ahorros y préstamos,29,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+1M - 10M,11,crítico,coche (nuevo),1322,> 100M,1 - 4 años,4,mujer,ninguno,4,otro,40,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,18,totalmente pagado en este banco,radio/televisión,1940,< 1M,0 - 1 año,3,hombre soltero,co-solicitante,4,desconocido/nada,36,banco,gratuita,1,autónomo gerente,1,sí,sí,0
+desconocido,36,pagado,radio/televisión,3595,< 1M,> 7 años,4,hombre soltero,ninguno,2,otro,28,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,9,pagado,coche (nuevo),1422,< 1M,0 - 1 año,3,hombre soltero,ninguno,2,desconocido/nada,27,ninguno,gratuita,1,autónomo gerente,1,sí,sí,1
+desconocido,30,crítico,radio/televisión,6742,desconocido,4 - 7 años,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,36,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (usado),7814,< 1M,4 - 7 años,3,hombre soltero,ninguno,3,otro,38,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,24,pagado,coche (usado),9277,desconocido,1 - 4 años,2,hombre divorciado,ninguno,4,desconocido/nada,48,ninguno,gratuita,1,empleado calificado,1,sí,sí,0
+1M - 10M,30,crítico,coche (nuevo),2181,desconocido,> 7 años,4,hombre soltero,ninguno,4,bienes raíces,36,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,18,crítico,radio/televisión,1098,< 1M,desempleado,4,mujer,ninguno,4,otro,65,ninguno,propia,2,desempleado no residente,1,ninguno,sí,0
+1M - 10M,24,pagado,muebles,4057,< 1M,4 - 7 años,3,hombre divorciado,ninguno,3,otro,43,ninguno,propia,1,empleado calificado,1,sí,sí,1
+< 1M,12,pagado,educación,795,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,53,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,24,crítico,negocios,2825,desconocido,4 - 7 años,4,hombre soltero,ninguno,3,desconocido/nada,34,ninguno,propia,2,empleado calificado,2,sí,sí,0
+1M - 10M,48,pagado,negocios,15672,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,otro,23,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,36,crítico,coche (nuevo),6614,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,34,ninguno,propia,2,autónomo gerente,1,sí,sí,0
+desconocido,28,totalmente pagado en este banco,coche (usado),7824,desconocido,0 - 1 año,3,hombre soltero,aval,4,bienes raíces,40,banco,alquilada,2,empleado calificado,2,sí,sí,0
+< 1M,27,crítico,negocios,2442,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,43,tiendas,propia,4,autónomo gerente,2,sí,sí,0
+desconocido,15,crítico,radio/televisión,1829,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,46,ninguno,propia,2,empleado calificado,1,sí,sí,0
+< 1M,12,crítico,coche (nuevo),2171,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,38,banco,propia,2,residente no calificado,1,ninguno,no,0
+1M - 10M,36,crítico,coche (usado),5800,< 1M,1 - 4 años,3,hombre soltero,ninguno,4,otro,34,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,18,crítico,radio/televisión,1169,desconocido,1 - 4 años,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,29,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,36,retrasado,coche (usado),8947,desconocido,4 - 7 años,3,hombre soltero,ninguno,2,otro,31,tiendas,propia,1,autónomo gerente,2,sí,sí,0
+< 1M,21,pagado,radio/televisión,2606,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,28,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,12,crítico,muebles,1592,> 100M,4 - 7 años,3,mujer,ninguno,2,sociedad de ahorros y préstamos,35,ninguno,propia,1,empleado calificado,1,ninguno,no,0
+desconocido,15,pagado,muebles,2186,desconocido,4 - 7 años,1,mujer,ninguno,4,bienes raíces,33,banco,alquilada,1,residente no calificado,1,ninguno,sí,0
+< 1M,18,pagado,muebles,4153,< 1M,1 - 4 años,2,hombre soltero,co-solicitante,3,otro,42,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,16,crítico,coche (nuevo),2625,< 1M,> 7 años,2,hombre soltero,aval,4,sociedad de ahorros y préstamos,43,banco,alquilada,1,empleado calificado,1,sí,sí,1
+desconocido,20,crítico,coche (nuevo),3485,desconocido,0 - 1 año,2,hombre divorciado,ninguno,4,bienes raíces,44,ninguno,propia,2,empleado calificado,1,sí,sí,0
+desconocido,36,crítico,coche (usado),10477,desconocido,> 7 años,2,hombre soltero,ninguno,4,desconocido/nada,42,ninguno,gratuita,2,empleado calificado,1,ninguno,sí,0
+desconocido,15,pagado,radio/televisión,1386,desconocido,1 - 4 años,4,hombre casado,ninguno,2,bienes raíces,40,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+desconocido,24,pagado,radio/televisión,1278,< 1M,> 7 años,4,hombre soltero,ninguno,1,bienes raíces,36,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,12,pagado,radio/televisión,1107,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,bienes raíces,20,ninguno,alquilada,1,autónomo gerente,2,sí,sí,0
+< 1M,21,pagado,coche (nuevo),3763,desconocido,4 - 7 años,2,hombre soltero,co-solicitante,2,bienes raíces,24,ninguno,propia,1,residente no calificado,1,ninguno,no,0
+1M - 10M,36,pagado,educación,3711,desconocido,1 - 4 años,2,hombre casado,ninguno,2,otro,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,15,retrasado,coche (usado),3594,< 1M,0 - 1 año,1,mujer,ninguno,2,sociedad de ahorros y préstamos,46,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,9,pagado,coche (nuevo),3195,desconocido,1 - 4 años,1,mujer,ninguno,2,bienes raíces,33,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+desconocido,36,retrasado,radio/televisión,4454,< 1M,1 - 4 años,4,mujer,ninguno,4,bienes raíces,34,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,24,crítico,muebles,4736,< 1M,0 - 1 año,2,mujer,ninguno,4,otro,25,banco,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,30,pagado,radio/televisión,2991,desconocido,> 7 años,2,mujer,ninguno,4,otro,25,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,11,pagado,negocios,2142,> 100M,> 7 años,1,hombre divorciado,ninguno,2,bienes raíces,28,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,totalmente pagado en este banco,negocios,3161,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,31,ninguno,alquilada,1,empleado calificado,1,sí,sí,1
+1M - 10M,48,totalmente pagado,otros,18424,< 1M,1 - 4 años,1,mujer,ninguno,2,sociedad de ahorros y préstamos,32,banco,propia,1,autónomo gerente,1,sí,no,1
+desconocido,10,pagado,coche (usado),2848,1M - 10M,1 - 4 años,1,hombre soltero,co-solicitante,2,bienes raíces,32,ninguno,propia,1,empleado calificado,2,ninguno,sí,0
+< 1M,6,pagado,coche (nuevo),14896,< 1M,> 7 años,1,hombre soltero,ninguno,4,desconocido/nada,68,banco,propia,1,autónomo gerente,1,sí,sí,1
+< 1M,24,pagado,muebles,2359,1M - 10M,desempleado,1,hombre divorciado,ninguno,1,sociedad de ahorros y préstamos,33,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+< 1M,24,pagado,muebles,3345,< 1M,> 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,39,ninguno,alquilada,1,autónomo gerente,1,sí,sí,1
+desconocido,18,crítico,muebles,1817,< 1M,1 - 4 años,4,mujer,ninguno,2,desconocido/nada,28,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,48,retrasado,radio/televisión,12749,10M - 100M,4 - 7 años,4,hombre soltero,ninguno,1,otro,37,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,9,pagado,radio/televisión,1366,< 1M,0 - 1 año,3,mujer,ninguno,4,sociedad de ahorros y préstamos,22,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,12,pagado,coche (nuevo),2002,< 1M,4 - 7 años,3,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,30,ninguno,alquilada,1,empleado calificado,2,sí,sí,0
+< 1M,24,totalmente pagado en este banco,muebles,6872,< 1M,0 - 1 año,2,hombre divorciado,ninguno,1,sociedad de ahorros y préstamos,55,banco,propia,1,empleado calificado,1,sí,sí,1
+< 1M,12,totalmente pagado en este banco,coche (nuevo),697,< 1M,0 - 1 año,4,hombre soltero,ninguno,2,otro,46,banco,propia,2,empleado calificado,1,sí,sí,1
+< 1M,18,crítico,muebles,1049,< 1M,0 - 1 año,4,mujer,ninguno,4,sociedad de ahorros y préstamos,21,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+< 1M,48,pagado,coche (usado),10297,< 1M,4 - 7 años,4,hombre soltero,ninguno,4,desconocido/nada,39,tiendas,gratuita,3,empleado calificado,2,sí,sí,1
+desconocido,30,pagado,radio/televisión,1867,desconocido,> 7 años,4,hombre soltero,ninguno,4,otro,58,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,12,retrasado,coche (nuevo),1344,< 1M,1 - 4 años,4,hombre soltero,ninguno,2,bienes raíces,43,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+< 1M,24,pagado,muebles,1747,< 1M,0 - 1 año,4,hombre soltero,co-solicitante,1,sociedad de ahorros y préstamos,24,ninguno,propia,1,residente no calificado,1,ninguno,no,0
+1M - 10M,9,pagado,radio/televisión,1670,< 1M,0 - 1 año,4,mujer,ninguno,2,otro,22,ninguno,propia,1,empleado calificado,1,sí,sí,1
+desconocido,9,crítico,coche (nuevo),1224,< 1M,1 - 4 años,3,hombre soltero,ninguno,1,bienes raíces,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,12,crítico,radio/televisión,522,10M - 100M,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,42,ninguno,propia,2,empleado calificado,2,sí,sí,0
+< 1M,12,pagado,radio/televisión,1498,< 1M,1 - 4 años,4,mujer,ninguno,1,otro,23,banco,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,30,retrasado,radio/televisión,1919,1M - 10M,0 - 1 año,4,hombre soltero,ninguno,3,desconocido/nada,30,tiendas,propia,2,autónomo gerente,1,ninguno,sí,1
+> 10M,9,pagado,radio/televisión,745,< 1M,1 - 4 años,3,mujer,ninguno,2,bienes raíces,28,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,6,pagado,radio/televisión,2063,< 1M,0 - 1 año,4,hombre casado,ninguno,3,otro,30,ninguno,alquilada,1,autónomo gerente,1,sí,sí,0
+1M - 10M,60,pagado,educación,6288,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,42,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,1
+desconocido,24,crítico,coche (usado),6842,desconocido,1 - 4 años,2,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,46,ninguno,propia,2,autónomo gerente,2,sí,sí,0
+desconocido,12,pagado,coche (nuevo),3527,desconocido,0 - 1 año,2,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,45,ninguno,propia,1,autónomo gerente,2,sí,sí,0
+desconocido,10,pagado,coche (nuevo),1546,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,bienes raíces,31,ninguno,propia,1,residente no calificado,2,ninguno,no,0
+desconocido,24,pagado,muebles,929,desconocido,4 - 7 años,4,hombre soltero,ninguno,2,otro,31,tiendas,propia,1,empleado calificado,1,sí,sí,0
+desconocido,4,crítico,coche (nuevo),1455,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,bienes raíces,42,ninguno,propia,3,residente no calificado,2,ninguno,sí,0
+< 1M,15,pagado,muebles,1845,< 1M,0 - 1 año,4,mujer,aval,1,sociedad de ahorros y préstamos,46,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,48,totalmente pagado,coche (nuevo),8358,10M - 100M,0 - 1 año,1,mujer,ninguno,1,otro,30,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+< 1M,24,totalmente pagado en este banco,muebles,3349,10M - 100M,0 - 1 año,4,hombre soltero,ninguno,4,desconocido/nada,30,ninguno,gratuita,1,empleado calificado,2,sí,sí,1
+desconocido,12,pagado,coche (nuevo),2859,desconocido,desempleado,4,hombre soltero,ninguno,4,desconocido/nada,38,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,18,pagado,muebles,1533,< 1M,0 - 1 año,4,hombre casado,co-solicitante,1,sociedad de ahorros y préstamos,43,ninguno,propia,1,residente no calificado,2,ninguno,sí,1
+desconocido,24,pagado,radio/televisión,3621,1M - 10M,> 7 años,2,hombre soltero,ninguno,4,otro,31,ninguno,propia,2,empleado calificado,1,ninguno,sí,1
+1M - 10M,18,crítico,negocios,3590,< 1M,desempleado,3,hombre casado,ninguno,3,otro,40,ninguno,propia,3,desempleado no residente,2,sí,sí,0
+< 1M,36,retrasado,negocios,2145,< 1M,4 - 7 años,2,hombre soltero,ninguno,1,otro,24,ninguno,propia,2,empleado calificado,1,sí,sí,1
+1M - 10M,24,pagado,coche (usado),4113,10M - 100M,0 - 1 año,3,mujer,ninguno,4,otro,28,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,36,pagado,muebles,10974,< 1M,desempleado,4,mujer,ninguno,2,otro,26,ninguno,propia,2,autónomo gerente,1,sí,sí,1
+< 1M,12,pagado,coche (nuevo),1893,< 1M,1 - 4 años,4,mujer,aval,4,sociedad de ahorros y préstamos,29,ninguno,propia,1,empleado calificado,1,sí,sí,0
+< 1M,24,crítico,radio/televisión,1231,> 100M,> 7 años,4,mujer,ninguno,4,sociedad de ahorros y préstamos,57,ninguno,alquilada,2,autónomo gerente,1,sí,sí,0
+> 10M,30,crítico,radio/televisión,3656,desconocido,> 7 años,4,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,49,tiendas,propia,2,residente no calificado,1,ninguno,sí,0
+1M - 10M,9,crítico,radio/televisión,1154,< 1M,> 7 años,2,hombre soltero,ninguno,4,bienes raíces,37,ninguno,propia,3,residente no calificado,1,ninguno,sí,0
+< 1M,28,pagado,coche (nuevo),4006,< 1M,1 - 4 años,3,hombre soltero,ninguno,2,otro,45,ninguno,propia,1,residente no calificado,1,ninguno,sí,1
+1M - 10M,24,pagado,muebles,3069,1M - 10M,> 7 años,4,hombre soltero,ninguno,4,desconocido/nada,30,ninguno,gratuita,1,empleado calificado,1,ninguno,sí,0
+desconocido,6,crítico,radio/televisión,1740,< 1M,> 7 años,2,hombre casado,ninguno,2,bienes raíces,30,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+1M - 10M,21,retrasado,coche (nuevo),2353,< 1M,1 - 4 años,1,hombre divorciado,ninguno,4,sociedad de ahorros y préstamos,47,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,15,pagado,coche (nuevo),3556,desconocido,1 - 4 años,3,hombre soltero,ninguno,2,desconocido/nada,29,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,radio/televisión,2397,10M - 100M,> 7 años,3,hombre soltero,ninguno,2,otro,35,banco,propia,2,empleado calificado,1,sí,sí,1
+1M - 10M,6,pagado,reparaciones,454,< 1M,0 - 1 año,3,hombre casado,ninguno,1,sociedad de ahorros y préstamos,22,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,30,pagado,radio/televisión,1715,desconocido,1 - 4 años,4,mujer,ninguno,1,otro,26,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,27,crítico,radio/televisión,2520,10M - 100M,1 - 4 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,23,ninguno,propia,2,residente no calificado,1,ninguno,sí,1
+desconocido,15,pagado,radio/televisión,3568,< 1M,> 7 años,4,mujer,ninguno,2,otro,54,banco,alquilada,1,autónomo gerente,1,sí,sí,0
+desconocido,42,pagado,radio/televisión,7166,desconocido,4 - 7 años,2,hombre casado,ninguno,4,sociedad de ahorros y préstamos,29,ninguno,alquilada,1,empleado calificado,1,sí,sí,0
+< 1M,11,crítico,coche (nuevo),3939,< 1M,1 - 4 años,1,hombre soltero,ninguno,2,bienes raíces,40,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+1M - 10M,15,pagado,reparaciones,1514,1M - 10M,1 - 4 años,4,hombre soltero,aval,2,bienes raíces,22,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+desconocido,24,pagado,coche (nuevo),7393,< 1M,1 - 4 años,1,hombre soltero,ninguno,4,sociedad de ahorros y préstamos,43,ninguno,propia,1,residente no calificado,2,ninguno,sí,0
+< 1M,24,totalmente pagado en este banco,coche (nuevo),1193,< 1M,desempleado,1,mujer,co-solicitante,4,desconocido/nada,29,ninguno,alquilada,2,desempleado no residente,1,ninguno,sí,1
+< 1M,60,pagado,negocios,7297,< 1M,> 7 años,4,hombre soltero,co-solicitante,4,desconocido/nada,36,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+desconocido,30,crítico,radio/televisión,2831,< 1M,1 - 4 años,4,mujer,ninguno,2,otro,33,ninguno,propia,1,empleado calificado,1,sí,sí,0
+> 10M,24,pagado,radio/televisión,1258,10M - 100M,1 - 4 años,3,mujer,ninguno,3,otro,57,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+1M - 10M,6,pagado,radio/televisión,753,< 1M,1 - 4 años,2,mujer,aval,3,bienes raíces,64,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+1M - 10M,18,retrasado,negocios,2427,desconocido,> 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,42,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,24,retrasado,coche (nuevo),2538,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,47,ninguno,propia,2,residente no calificado,2,ninguno,sí,1
+1M - 10M,15,totalmente pagado en este banco,coche (nuevo),1264,1M - 10M,1 - 4 años,2,hombre casado,ninguno,2,sociedad de ahorros y préstamos,25,ninguno,alquilada,1,empleado calificado,1,ninguno,sí,1
+1M - 10M,30,crítico,muebles,8386,< 1M,4 - 7 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,49,ninguno,propia,1,empleado calificado,1,ninguno,sí,1
+desconocido,48,pagado,negocios,4844,< 1M,desempleado,3,hombre soltero,ninguno,2,otro,33,banco,alquilada,1,autónomo gerente,1,sí,sí,1
+> 10M,21,pagado,coche (nuevo),2923,1M - 10M,1 - 4 años,1,mujer,ninguno,1,otro,28,banco,propia,1,autónomo gerente,1,sí,sí,0
+< 1M,36,pagado,coche (usado),8229,< 1M,1 - 4 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,26,ninguno,propia,1,empleado calificado,2,ninguno,sí,1
+desconocido,24,crítico,muebles,2028,< 1M,4 - 7 años,2,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,30,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+< 1M,15,crítico,muebles,1433,< 1M,1 - 4 años,4,mujer,ninguno,3,sociedad de ahorros y préstamos,25,ninguno,alquilada,2,empleado calificado,1,ninguno,sí,0
+> 10M,42,totalmente pagado,negocios,6289,< 1M,0 - 1 año,2,hombre divorciado,ninguno,1,sociedad de ahorros y préstamos,33,ninguno,propia,2,empleado calificado,1,ninguno,sí,0
+desconocido,13,pagado,radio/televisión,1409,1M - 10M,desempleado,2,mujer,ninguno,4,bienes raíces,64,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,24,pagado,coche (usado),6579,< 1M,desempleado,4,hombre soltero,ninguno,2,desconocido/nada,29,ninguno,gratuita,1,autónomo gerente,1,sí,sí,0
+1M - 10M,24,crítico,radio/televisión,1743,< 1M,> 7 años,4,hombre soltero,ninguno,2,sociedad de ahorros y préstamos,48,ninguno,propia,2,residente no calificado,1,ninguno,sí,0
+desconocido,12,crítico,educación,3565,desconocido,0 - 1 año,2,hombre soltero,ninguno,1,sociedad de ahorros y préstamos,37,ninguno,propia,2,residente no calificado,2,ninguno,sí,0
+desconocido,15,totalmente pagado en este banco,radio/televisión,1569,1M - 10M,> 7 años,4,hombre soltero,ninguno,4,otro,34,banco,propia,1,residente no calificado,2,ninguno,sí,0
+< 1M,18,pagado,radio/televisión,1936,desconocido,4 - 7 años,2,hombre casado,ninguno,4,otro,23,ninguno,alquilada,2,residente no calificado,1,ninguno,sí,0
+< 1M,36,pagado,muebles,3959,< 1M,desempleado,4,hombre soltero,ninguno,3,sociedad de ahorros y préstamos,30,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,coche (nuevo),2390,desconocido,> 7 años,4,hombre soltero,ninguno,3,otro,50,ninguno,propia,1,empleado calificado,1,sí,sí,0
+desconocido,12,pagado,muebles,1736,< 1M,4 - 7 años,3,mujer,ninguno,4,bienes raíces,31,ninguno,propia,1,residente no calificado,1,ninguno,sí,0
+< 1M,30,pagado,coche (usado),3857,< 1M,1 - 4 años,4,hombre divorciado,ninguno,4,sociedad de ahorros y préstamos,40,ninguno,propia,1,autónomo gerente,1,sí,sí,0
+desconocido,12,pagado,radio/televisión,804,< 1M,> 7 años,4,hombre soltero,ninguno,4,otro,38,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
+< 1M,45,pagado,radio/televisión,1845,< 1M,1 - 4 años,4,hombre soltero,ninguno,4,desconocido/nada,23,ninguno,gratuita,1,empleado calificado,1,sí,sí,1
+1M - 10M,45,crítico,coche (usado),4576,1M - 10M,desempleado,3,hombre soltero,ninguno,4,otro,27,ninguno,propia,1,empleado calificado,1,ninguno,sí,0
